@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091291513359867904"
+      ],
+      "media_source_tweet_id": [
+        "2091291519202554123"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2091567564334002589",
+    "created_at": "2026-08-23T16:45:41.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091567564334002589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2089881004270125057",
+          "start": 3,
+          "username": "winne292929"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AKdmlmpHHG",
+          "end": 110,
+          "expanded_url": "https://x.com/winne292929/status/2091291519202554123/photo/1",
+          "media_key": "3_2091291513359867904",
+          "start": 87,
+          "url": "https://t.co/AKdmlmpHHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091567564334002589",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091291513359867904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091291519202554123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winne292929: 未满50个人抽13.14\n100元以下抽两个\n150人以下抽三个\n以此类推\n希望大家想办法多多宣群\n欢迎大家来玩\n不是跨也没关系，友跨就行 https://t.co/AKdmlmpHHG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2283,
+        "media_key": "3_2091291513359867904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQXCjR-aoAA8eNN.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091291513359867904"
+          ],
+          "media_source_tweet_id": [
+            "2091291519202554123"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2091567564334002589",
+        "created_at": "2026-08-23T16:45:41.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091567564334002589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2089881004270125057",
+              "start": 3,
+              "username": "winne292929"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKdmlmpHHG",
+              "end": 110,
+              "expanded_url": "https://x.com/winne292929/status/2091291519202554123/photo/1",
+              "media_key": "3_2091291513359867904",
+              "start": 87,
+              "url": "https://t.co/AKdmlmpHHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091567564334002589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091291513359867904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091291519202554123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winne292929: 未满50个人抽13.14\n100元以下抽两个\n150人以下抽三个\n以此类推\n希望大家想办法多多宣群\n欢迎大家来玩\n不是跨也没关系，友跨就行 https://t.co/AKdmlmpHHG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091291513359867904"
+          ]
+        },
+        "author_id": "2089881004270125057",
+        "conversation_id": "2091291519202554123",
+        "created_at": "2026-08-22T22:28:47.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T23:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091291519202554123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKdmlmpHHG",
+              "end": 93,
+              "expanded_url": "https://x.com/winne292929/status/2091291519202554123/photo/1",
+              "media_key": "3_2091291513359867904",
+              "start": 70,
+              "url": "https://t.co/AKdmlmpHHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091291519202554123",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091291513359867904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "未满50个人抽13.14\n100元以下抽两个\n150人以下抽三个\n以此类推\n希望大家想办法多多宣群\n欢迎大家来玩\n不是跨也没关系，友跨就行 https://t.co/AKdmlmpHHG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2091567564334002589",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 189,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1292
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T01:05:59.000Z",
+        "description": "互fo，每天fo有上限可能延迟一两天回，但是必回，最好标明是来互fo的最好是蓝v（互fo的没回我会清）\n06，MTF /TS/176cm/55kg\n同一个世界，不同的梦想\nqq1322326385\n心境情感障碍，曾经是重抑重焦\n不OD不自残，持证含糖\n喜欢看英雄联盟电竞，对选手比较博爱，尤其偏爱于Faker",
+        "id": "2089881004270125057",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2091564344148701338",
+        "name": "winne🍥（互fo）",
+        "pinned_tweet_id": "2090639437428559978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089881004270125057/1787146428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090988637664198656/Lw1DkiWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 6,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "winne292929",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

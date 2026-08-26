@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2079165314064134592",
+    "created_at": "2026-07-21T10:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079519234082968006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1740711455530385410",
+          "start": 0,
+          "username": "SMjiaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079519234082968006",
+    "in_reply_to_user_id": "2077517932532527104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079518852027937204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SMjiaV 冷水机坏掉了后来死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2079165314064134592",
+        "created_at": "2026-07-21T10:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079519234082968006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1740711455530385410",
+              "start": 0,
+              "username": "SMjiaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079519234082968006",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079518852027937204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SMjiaV 冷水机坏掉了后来死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2079165314064134592",
+        "created_at": "2026-07-21T10:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079518852027937204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1740711455530385410",
+              "start": 0,
+              "username": "SMjiaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079518852027937204",
+        "in_reply_to_user_id": "1740711455530385410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079510861140607143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SMjiaV 悄悄告诉你我年前养过鲨鱼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "17/生理女/泛性恋/ISFP/PTSD/PKD/轻度抑郁/轻躁狂/异食癖/焦虑症/💊/🚬/🍺/几乎无雷/不擅长聊天见谅/上学中🎒/异宠/查成分回fo/匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ（反迷你😡",
+        "pinned_tweet_id": "2078940612490146036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 34,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T12:29:18.000Z",
+        "description": "【B站同名】｜Guts & Black Powder｜准高二美术生｜我是楠的别搞｜sub｜iiii｜0🚪（我不配😢）｜欢迎各位加我QQ聊天😈｜匿名找我玩:https://t.co/bHSaB2y8a2｜QQ:2772341680|最后，谢谢你能看完我的简介，祝你生活愉快🤗️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clc31460",
+                "end": 100,
+                "expanded_url": "https://ngl.link/clc31460",
+                "start": 77,
+                "url": "https://t.co/bHSaB2y8a2"
+              }
+            ]
+          }
+        },
+        "id": "1740711455530385410",
+        "location": "距您1.145米",
+        "name": "草草履虫（反迷你｜互fo）",
+        "pinned_tweet_id": "2078810100807139764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065499514656677888/1kRe6GAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 63,
+          "like_count": 2059,
+          "listed_count": 0,
+          "media_count": 1179,
+          "tweet_count": 6437
+        },
+        "url": "",
+        "username": "SMjiaV",
+        "verified": false
+      }
+    ]
+  }
+}

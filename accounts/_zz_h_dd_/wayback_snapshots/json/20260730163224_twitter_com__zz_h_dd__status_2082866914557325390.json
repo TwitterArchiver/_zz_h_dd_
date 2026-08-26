@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2080648778600599933",
+    "created_at": "2026-07-30T16:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082866914557325390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2079530193379807232",
+          "start": 0,
+          "username": "cutekoi777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082866914557325390",
+    "in_reply_to_user_id": "2079530193379807232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080648778600599933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cutekoi777 好美好美😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24009,
+        "height": 720,
+        "media_key": "13_2080648745322954752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080648745322954752/img/RBuS9ZuMuceF0rb_.jpg",
+        "public_metrics": {
+          "view_count": 977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080648745322954752/vid/avc1/466x270/UrsF0ENZFN5avjiE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080648745322954752/vid/avc1/622x360/sI_BSb0atPY9I_Eh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080648745322954752/vid/avc1/1244x720/lhKaqjOp-nQQBh17.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080648745322954752/pl/9cvX4wKyzRJ-k9Zq.m3u8?v=d85"
+          }
+        ],
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2080648778600599933",
+        "created_at": "2026-07-30T16:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082866914557325390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2079530193379807232",
+              "start": 0,
+              "username": "cutekoi777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082866914557325390",
+        "in_reply_to_user_id": "2079530193379807232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080648778600599933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cutekoi777 好美好美😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080648745322954752"
+          ]
+        },
+        "author_id": "2079530193379807232",
+        "conversation_id": "2080648778600599933",
+        "created_at": "2026-07-24T13:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080648778600599933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fdo9UFu1zd",
+              "end": 37,
+              "expanded_url": "https://x.com/cutekoi777/status/2080648778600599933/video/1",
+              "media_key": "13_2080648745322954752",
+              "start": 14,
+              "url": "https://t.co/Fdo9UFu1zd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080648778600599933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2537,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是发视频吧权当朋友圈了 https://t.co/Fdo9UFu1zd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 96,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T11:34:31.000Z",
+        "description": "小号@cuteYuki777  匿名箱https://t.co/pmGenwTf2l\nISFJ   只是一个爱碎碎念的小乐乐呀。。\n⚠️非常卡颜的一个人 1i＞4i \n把这里当朋友圈发 欢迎互fo，和我说一声❤️❤️❤️  完全清水推 欢迎交友呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "cuteYuki777"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkoi59653",
+                "end": 42,
+                "expanded_url": "https://ngl.link/kkkoi59653",
+                "start": 19,
+                "url": "https://t.co/pmGenwTf2l"
+              }
+            ]
+          }
+        },
+        "id": "2079530193379807232",
+        "name": "kkkoi",
+        "pinned_tweet_id": "2080648778600599933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080948021047779328/jzs15-Qu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 11,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 499
+        },
+        "url": "",
+        "username": "cutekoi777",
+        "verified": false
+      }
+    ]
+  }
+}

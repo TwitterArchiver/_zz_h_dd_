@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2082166070799122926",
+    "created_at": "2026-07-28T18:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082167838555684909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1994367283523944448",
+          "start": 0,
+          "username": "moximoxi2312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082167838555684909",
+    "in_reply_to_user_id": "1994367283523944448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082166070799122926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moximoxi2312 这两年新手多了就这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082166048112205824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVW_S0bYAAoqE2.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082166048107937793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVW_SzaQAE_7rz.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2082166070799122926",
+        "created_at": "2026-07-28T18:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082167838555684909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1994367283523944448",
+              "start": 0,
+              "username": "moximoxi2312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082167838555684909",
+        "in_reply_to_user_id": "1994367283523944448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082166070799122926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moximoxi2312 这两年新手多了就这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082166048112205824",
+            "3_2082166048107937793"
+          ]
+        },
+        "author_id": "1994367283523944448",
+        "conversation_id": "2082166070799122926",
+        "created_at": "2026-07-28T18:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082166070799122926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tmaS508xE",
+              "end": 36,
+              "expanded_url": "https://x.com/moximoxi2312/status/2082166070799122926/photo/1",
+              "media_key": "3_2082166048112205824",
+              "start": 13,
+              "url": "https://t.co/7tmaS508xE"
+            },
+            {
+              "display_url": "pic.x.com/7tmaS508xE",
+              "end": 36,
+              "expanded_url": "https://x.com/moximoxi2312/status/2082166070799122926/photo/1",
+              "media_key": "3_2082166048107937793",
+              "start": 13,
+              "url": "https://t.co/7tmaS508xE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082166070799122926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉着我也没说重话啊 哎 https://t.co/7tmaS508xE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 78,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T11:26:40.000Z",
+        "description": "",
+        "id": "1994367283523944448",
+        "location": "武汉",
+        "name": "咕咕嘎嘎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081062218821783552/d78JoUna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 35,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "moximoxi2312",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2078076264225874345",
+    "created_at": "2026-07-17T22:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T23:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078239624292696302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491064050985291776",
+          "start": 0,
+          "username": "nora14525742"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078239624292696302",
+    "in_reply_to_user_id": "1491064050985291776",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078076264225874345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nora14525742 99"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10285,
+        "height": 562,
+        "media_key": "13_2078076237415862272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078076237415862272/img/cJsU2IEr5A4rbKgv.jpg",
+        "public_metrics": {
+          "view_count": 6614
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078076237415862272/vid/avc1/578x270/jeBcTMnkxe79WEXr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078076237415862272/vid/avc1/772x360/ibTNepE_rhCGvYJp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078076237415862272/vid/avc1/1206x562/HBtSAGdUdRP-wMbW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078076237415862272/pl/E_xvFSKWKsv4HhBt.m3u8?v=ed8"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2078076264225874345",
+        "created_at": "2026-07-17T22:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078239624292696302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491064050985291776",
+              "start": 0,
+              "username": "nora14525742"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078239624292696302",
+        "in_reply_to_user_id": "1491064050985291776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078076264225874345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nora14525742 99"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078076237415862272"
+          ]
+        },
+        "author_id": "1491064050985291776",
+        "conversation_id": "2078076264225874345",
+        "created_at": "2026-07-17T11:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078076264225874345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9622iofoF",
+              "end": 45,
+              "expanded_url": "https://x.com/nora14525742/status/2078076264225874345/video/1",
+              "media_key": "13_2078076237415862272",
+              "start": 22,
+              "url": "https://t.co/G9622iofoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078076264225874345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16238,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的觉得他讲话很萌 也有可能是我的滤镜 https://t.co/G9622iofoF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "17歳/喜欢会回关/匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2077930184607707209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T15:00:06.000Z",
+        "description": "姐狗恋记录者 我叫oo 欢迎跟我交朋友\\(//∇//)\\",
+        "id": "1491064050985291776",
+        "location": "London, England",
+        "name": "小尾狐",
+        "pinned_tweet_id": "2069747229951406211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036466043896692736/X-2GDs8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 53,
+          "like_count": 454,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "nora14525742",
+        "verified": false
+      }
+    ]
+  }
+}

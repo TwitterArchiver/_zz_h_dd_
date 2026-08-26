@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2083557102384210222",
+    "created_at": "2026-08-01T18:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083628306625425730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1679905283068555265",
+          "start": 0,
+          "username": "yuda8964"
+        },
+        {
+          "end": 19,
+          "id": "2057552254463291393",
+          "start": 10,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083628306625425730",
+    "in_reply_to_user_id": "1679905283068555265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083557102384210222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda8964 @6De_dian 原本打算睡了看到这个一直在笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2083557102384210222",
+        "created_at": "2026-08-01T18:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083628306625425730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            },
+            {
+              "end": 19,
+              "id": "2057552254463291393",
+              "start": 10,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083628306625425730",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083557102384210222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 @6De_dian 原本打算睡了看到这个一直在笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083557102384210222",
+        "created_at": "2026-08-01T14:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083557102384210222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083557102384210222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "金刚晚安是肌肉鸡  美金刚是美女鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 96,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 133,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 523,
+          "like_count": 12441,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2249
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

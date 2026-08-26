@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2077878392511451499",
+    "created_at": "2026-07-16T22:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077878392511451499"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077878392511451499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私の生活リズムはみなさんとは逆です。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2077878392511451499",
+        "created_at": "2026-07-16T22:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077878392511451499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077878392511451499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私の生活リズムはみなさんとは逆です。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "17歳/気に入ったらリプしてね/チャットでもどうぞ",
+        "id": "2077517932532527104",
+        "location": "涩谷",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

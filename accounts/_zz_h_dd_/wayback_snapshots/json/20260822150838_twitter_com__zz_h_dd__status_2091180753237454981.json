@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2091180753237454981",
+    "created_at": "2026-08-22T15:08:38.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091180753237454981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2089968476790128640",
+          "start": 3,
+          "username": "leaf1loveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091180753237454981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091097512199471117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leaf1loveu: 谁可以给我买药...我给你跪下了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2091180753237454981",
+        "created_at": "2026-08-22T15:08:38.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091180753237454981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2089968476790128640",
+              "start": 3,
+              "username": "leaf1loveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091180753237454981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091097512199471117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leaf1loveu: 谁可以给我买药...我给你跪下了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089968476790128640",
+        "conversation_id": "2091097512199471117",
+        "created_at": "2026-08-22T09:37:52.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091097512199471117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091097512199471117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁可以给我买药...我给你跪下了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2091180753237454981",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 180,
+          "like_count": 1754,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T06:53:23.000Z",
+        "description": "我该用几行字才能写尽我一生的痛楚。\n\n前世@leaf11loveu\n\n防炸@leaf2loveu\n\n匿名提问箱https://t.co/F8Hml84WPN\n纸飞机账号https://t.co/olDOaMTObs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "leaf11loveu"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "leaf2loveu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/leaf93327",
+                "end": 78,
+                "expanded_url": "https://ngl.link/leaf93327",
+                "start": 55,
+                "url": "https://t.co/F8Hml84WPN"
+              },
+              {
+                "display_url": "t.me/leaf0911",
+                "end": 107,
+                "expanded_url": "http://t.me/leaf0911",
+                "start": 84,
+                "url": "https://t.co/olDOaMTObs"
+              }
+            ]
+          }
+        },
+        "id": "2089968476790128640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091180229356368107",
+        "name": "叶子大帝二世",
+        "pinned_tweet_id": "2090626613818044543",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089969151196442624/sh9OOA6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 259,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "leaf1loveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

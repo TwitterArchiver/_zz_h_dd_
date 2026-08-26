@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087560591879913472",
+        "3_2087560591829606400",
+        "3_2087560591837982720",
+        "3_2087560591829565440"
+      ],
+      "media_source_tweet_id": [
+        "2087560615288312292",
+        "2087560615288312292",
+        "2087560615288312292",
+        "2087560615288312292"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2092086218460934432",
+    "created_at": "2026-08-25T03:06:38.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T04:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092086218460934432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1619606197723856901",
+          "start": 3,
+          "username": "Tokino_Yui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yWcMtyH7dl",
+          "end": 49,
+          "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+          "media_key": "3_2087560591879913472",
+          "start": 26,
+          "url": "https://t.co/yWcMtyH7dl"
+        },
+        {
+          "display_url": "pic.x.com/yWcMtyH7dl",
+          "end": 49,
+          "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+          "media_key": "3_2087560591829606400",
+          "start": 26,
+          "url": "https://t.co/yWcMtyH7dl"
+        },
+        {
+          "display_url": "pic.x.com/yWcMtyH7dl",
+          "end": 49,
+          "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+          "media_key": "3_2087560591837982720",
+          "start": 26,
+          "url": "https://t.co/yWcMtyH7dl"
+        },
+        {
+          "display_url": "pic.x.com/yWcMtyH7dl",
+          "end": 49,
+          "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+          "media_key": "3_2087560591829565440",
+          "start": 26,
+          "url": "https://t.co/yWcMtyH7dl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092086218460934432",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087560591879913472"
+      },
+      {
+        "media_key": "3_2087560591829606400"
+      },
+      {
+        "media_key": "3_2087560591837982720"
+      },
+      {
+        "media_key": "3_2087560591829565440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087560615288312292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tokino_Yui: 🔝自介求转お願い🤲 https://t.co/yWcMtyH7dl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 843,
+        "media_key": "3_2087560591879913472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiBTEYbQAAZulo.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2087560591829606400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiBTEMboAAI4Y_.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2037,
+        "media_key": "3_2087560591837982720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiBTEObcAAAxLB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087560591829565440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiBTEMbAAAHEuy.jpg",
+        "width": 1648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087560591879913472",
+            "3_2087560591829606400",
+            "3_2087560591837982720",
+            "3_2087560591829565440"
+          ],
+          "media_source_tweet_id": [
+            "2087560615288312292",
+            "2087560615288312292",
+            "2087560615288312292",
+            "2087560615288312292"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2092086218460934432",
+        "created_at": "2026-08-25T03:06:38.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T04:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092086218460934432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1619606197723856901",
+              "start": 3,
+              "username": "Tokino_Yui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWcMtyH7dl",
+              "end": 49,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+              "media_key": "3_2087560591879913472",
+              "start": 26,
+              "url": "https://t.co/yWcMtyH7dl"
+            },
+            {
+              "display_url": "pic.x.com/yWcMtyH7dl",
+              "end": 49,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+              "media_key": "3_2087560591829606400",
+              "start": 26,
+              "url": "https://t.co/yWcMtyH7dl"
+            },
+            {
+              "display_url": "pic.x.com/yWcMtyH7dl",
+              "end": 49,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+              "media_key": "3_2087560591837982720",
+              "start": 26,
+              "url": "https://t.co/yWcMtyH7dl"
+            },
+            {
+              "display_url": "pic.x.com/yWcMtyH7dl",
+              "end": 49,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+              "media_key": "3_2087560591829565440",
+              "start": 26,
+              "url": "https://t.co/yWcMtyH7dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092086218460934432",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087560591879913472"
+          },
+          {
+            "media_key": "3_2087560591829606400"
+          },
+          {
+            "media_key": "3_2087560591837982720"
+          },
+          {
+            "media_key": "3_2087560591829565440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087560615288312292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tokino_Yui: 🔝自介求转お願い🤲 https://t.co/yWcMtyH7dl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087560591879913472",
+            "3_2087560591829606400",
+            "3_2087560591837982720",
+            "3_2087560591829565440"
+          ]
+        },
+        "author_id": "1619606197723856901",
+        "conversation_id": "2087560615288312292",
+        "created_at": "2026-08-12T15:23:30.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087560615288312292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWcMtyH7dl",
+              "end": 33,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+              "media_key": "3_2087560591879913472",
+              "start": 10,
+              "url": "https://t.co/yWcMtyH7dl"
+            },
+            {
+              "display_url": "pic.x.com/yWcMtyH7dl",
+              "end": 33,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+              "media_key": "3_2087560591829606400",
+              "start": 10,
+              "url": "https://t.co/yWcMtyH7dl"
+            },
+            {
+              "display_url": "pic.x.com/yWcMtyH7dl",
+              "end": 33,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+              "media_key": "3_2087560591837982720",
+              "start": 10,
+              "url": "https://t.co/yWcMtyH7dl"
+            },
+            {
+              "display_url": "pic.x.com/yWcMtyH7dl",
+              "end": 33,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2087560615288312292/photo/1",
+              "media_key": "3_2087560591829565440",
+              "start": 10,
+              "url": "https://t.co/yWcMtyH7dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087560615288312292",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087560591879913472"
+          },
+          {
+            "media_key": "3_2087560591829606400"
+          },
+          {
+            "media_key": "3_2087560591837982720"
+          },
+          {
+            "media_key": "3_2087560591829565440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2327,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🔝自介求转お願い🤲 https://t.co/yWcMtyH7dl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2092086218460934432",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 189,
+          "like_count": 1871,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-29T08:00:04.000Z",
+        "description": "可以叫我小唯/08/餐券没/od自残/很多黑泥/直fo想和你交朋友/🈚️门槛不聊骚不要骚扰我了/单纯送钱可以/没有回fo一定要私我一下！🥰\n\nhttps://t.co/8DCMjJbsUv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tokino_yui",
+                "end": 94,
+                "expanded_url": "https://ngl.link/tokino_yui",
+                "start": 71,
+                "url": "https://t.co/8DCMjJbsUv"
+              }
+            ]
+          }
+        },
+        "id": "1619606197723856901",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092085603219431482",
+        "name": "时野唯",
+        "pinned_tweet_id": "2087560615288312292",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619606197723856901/1786387918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083922642126663681/-eGS_8XD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 147,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "Tokino_Yui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

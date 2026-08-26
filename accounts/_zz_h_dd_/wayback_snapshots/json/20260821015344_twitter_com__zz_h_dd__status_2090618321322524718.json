@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090322232417325505",
+    "created_at": "2026-08-21T01:53:44.000Z",
+    "display_text_range": [
+      26,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090618321322524718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077732421488054272",
+          "start": 0,
+          "username": "FreePGBPlz"
+        },
+        {
+          "end": 25,
+          "id": "1293051660328026112",
+          "start": 12,
+          "username": "Mo_Qing_MOON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090618321322524718",
+    "in_reply_to_user_id": "2077732421488054272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090322232417325505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreePGBPlz @Mo_Qing_MOON 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090322232417325505",
+        "created_at": "2026-08-21T01:53:44.000Z",
+        "display_text_range": [
+          26,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090618321322524718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077732421488054272",
+              "start": 0,
+              "username": "FreePGBPlz"
+            },
+            {
+              "end": 25,
+              "id": "1293051660328026112",
+              "start": 12,
+              "username": "Mo_Qing_MOON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090618321322524718",
+        "in_reply_to_user_id": "2077732421488054272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090322232417325505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreePGBPlz @Mo_Qing_MOON 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077732421488054272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2090322232417325505",
+        "created_at": "2026-08-20T06:17:11.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090322232417325505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FreePGBPlz/sta…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/FreePGBPlz/status/2089952470797836436",
+              "start": 92,
+              "url": "https://t.co/lfmaRvfVnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090322232417325505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 147,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089952470797836436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不幸的，被允了，连开奖都没来得及\n在那个号有抽奖的大家在这个推文底下评论一下吧，之前没参加的大家也可以再参加一下，点赞评论加转发，平壤槟榔50g，分五份每份10g，明天下午三点就开哦 https://t.co/lfmaRvfVnX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090618321322524718",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 165,
+          "like_count": 1628,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T12:36:56.000Z",
+        "description": "",
+        "id": "2077732421488054272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090322232417325505",
+        "name": "PGB",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734428705771520/g4X7GxyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 1,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "FreePGBPlz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-11T05:08:48.000Z",
+        "description": "非二元/性向女/友跨/不上镜线下可爱//INTP/重抑重焦/ADHD/ASD/有猫/备战考研中/switch/摇滚/电影/星露谷/喷喷3/怪物猎人/ 宝可梦\n{匿名提问箱）https://t.co/R41XKohKUx\n欢迎互fo、欢迎交友、欢迎倾诉\n顺便欢迎加入TG群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moqing1",
+                "end": 109,
+                "expanded_url": "https://ngl.link/moqing1",
+                "start": 86,
+                "url": "https://t.co/R41XKohKUx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+T9qyNQFT6sIzM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+T9qyNQFT6sIzMThl",
+                "start": 0,
+                "url": "https://t.co/ftGQ1ssgQd"
+              }
+            ]
+          }
+        },
+        "id": "1293051660328026112",
+        "is_identity_verified": false,
+        "location": "NanJing, China",
+        "most_recent_tweet_id": "2090492968314843406",
+        "name": "墨染青",
+        "pinned_tweet_id": "2086876725322117425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1293051660328026112/1597123016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062484635104526336/KyVfHSHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 209,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/ftGQ1ssgQd",
+        "username": "Mo_Qing_MOON",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

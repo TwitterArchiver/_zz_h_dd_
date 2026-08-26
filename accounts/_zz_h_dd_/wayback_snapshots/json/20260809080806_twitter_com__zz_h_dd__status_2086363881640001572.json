@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2086183004897190012",
+    "created_at": "2026-08-09T08:08:06.000Z",
+    "display_text_range": [
+      23,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086363881640001572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944391113571553280",
+          "start": 0,
+          "username": "Die_Leaves"
+        },
+        {
+          "end": 22,
+          "id": "2068093112438943744",
+          "start": 12,
+          "username": "Yangkaiqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086363881640001572",
+    "in_reply_to_user_id": "1944391113571553280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086183004897190012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Die_Leaves @Yangkaiqh 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_2086182998609899520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOcYliaMAAKizM.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2086183004897190012",
+        "created_at": "2026-08-09T08:08:06.000Z",
+        "display_text_range": [
+          23,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086363881640001572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944391113571553280",
+              "start": 0,
+              "username": "Die_Leaves"
+            },
+            {
+              "end": 22,
+              "id": "2068093112438943744",
+              "start": 12,
+              "username": "Yangkaiqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086363881640001572",
+        "in_reply_to_user_id": "1944391113571553280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086183004897190012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Die_Leaves @Yangkaiqh 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086182998609899520"
+          ]
+        },
+        "author_id": "1944391113571553280",
+        "conversation_id": "2086183004897190012",
+        "created_at": "2026-08-08T20:09:22.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T21:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086183004897190012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFEYhtDHL0",
+              "end": 114,
+              "expanded_url": "https://x.com/Die_Leaves/status/2086183004897190012/photo/1",
+              "media_key": "3_2086182998609899520",
+              "start": 91,
+              "url": "https://t.co/NFEYhtDHL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086183004897190012",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086182998609899520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1178,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我来百fo抽奖了（虽然还没到）\n一等奖：13.88 一份\n二等奖：6.88 一份\n三等奖：3.88 两份\n关注➕评论➕转发参与  8月11号晚上10点开奖  \n不要嫌少😭😭真没钱了 https://t.co/NFEYhtDHL0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2086363881640001572",
+        "name": "スーユウ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 121,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T13:39:11.000Z",
+        "description": "⊹✿无痛去死✿⊹  | 全肯定回fo | enby | 💊 | 🔪🩸 | 双相\n被家长查获了 暂时不o不割。。。（并不\n发病乱说话🈶  随意称呼  都可以来找我互动w",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/leaf81697",
+                "end": 23,
+                "expanded_url": "https://ngl.link/leaf81697",
+                "start": 0,
+                "url": "https://t.co/aPqLDgbx7O"
+              }
+            ]
+          }
+        },
+        "id": "1944391113571553280",
+        "is_identity_verified": false,
+        "location": "漩涡",
+        "most_recent_tweet_id": "2086288566741873039",
+        "name": "绘黎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944391113571553280/1781882160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058204238782861313/w4xLXcpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 115,
+          "like_count": 2295,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/aPqLDgbx7O",
+        "username": "Die_Leaves",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T22:09:23.000Z",
+        "description": "無妨愛我淡泊，但求愛我長久\nサブ@04_OvO_24",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "04_OvO_24"
+              }
+            ]
+          }
+        },
+        "id": "2068093112438943744",
+        "is_identity_verified": false,
+        "location": "一個人哭真愛無敵",
+        "most_recent_tweet_id": "2086338808912785835",
+        "name": "淚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068093112438943744/1784838115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085342742637613056/2huHgGmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 75,
+          "like_count": 3331,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "Yangkaiqh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

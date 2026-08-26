@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085733413395501056",
+        "3_2085733413416579072"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2085733450519384286",
+    "created_at": "2026-08-07T14:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085733450519384286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6qw2f69Wo7",
+          "end": 33,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2085733450519384286/photo/1",
+          "media_key": "3_2085733413395501056",
+          "start": 10,
+          "url": "https://t.co/6qw2f69Wo7"
+        },
+        {
+          "display_url": "pic.x.com/6qw2f69Wo7",
+          "end": 33,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2085733450519384286/photo/1",
+          "media_key": "3_2085733413416579072",
+          "start": 10,
+          "url": "https://t.co/6qw2f69Wo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085733450519384286",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1:？\n2:165 https://t.co/6qw2f69Wo7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2085733413395501056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIDfSGaEAADN0U.jpg",
+        "width": 1242
+      },
+      {
+        "height": 732,
+        "media_key": "3_2085733413416579072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIDfSLbsAAyg3e.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085733413395501056",
+            "3_2085733413416579072"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2085733450519384286",
+        "created_at": "2026-08-07T14:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085733450519384286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qw2f69Wo7",
+              "end": 33,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2085733450519384286/photo/1",
+              "media_key": "3_2085733413395501056",
+              "start": 10,
+              "url": "https://t.co/6qw2f69Wo7"
+            },
+            {
+              "display_url": "pic.x.com/6qw2f69Wo7",
+              "end": 33,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2085733450519384286/photo/1",
+              "media_key": "3_2085733413416579072",
+              "start": 10,
+              "url": "https://t.co/6qw2f69Wo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085733450519384286",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1:？\n2:165 https://t.co/6qw2f69Wo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 127,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

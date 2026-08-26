@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091566665083568128",
+        "3_2091566677360263168",
+        "3_2091566688957538304",
+        "3_2091566697077706752"
+      ],
+      "media_source_tweet_id": [
+        "2091566703683747979",
+        "2091566703683747979",
+        "2091566703683747979",
+        "2091566703683747979"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2091833294224801843",
+    "created_at": "2026-08-24T10:21:36.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T11:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091833294224801843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2091091751054532608",
+          "start": 3,
+          "username": "xihbo3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EXogkW7Zhw",
+          "end": 68,
+          "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+          "media_key": "3_2091566665083568128",
+          "start": 45,
+          "url": "https://t.co/EXogkW7Zhw"
+        },
+        {
+          "display_url": "pic.x.com/EXogkW7Zhw",
+          "end": 68,
+          "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+          "media_key": "3_2091566677360263168",
+          "start": 45,
+          "url": "https://t.co/EXogkW7Zhw"
+        },
+        {
+          "display_url": "pic.x.com/EXogkW7Zhw",
+          "end": 68,
+          "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+          "media_key": "3_2091566688957538304",
+          "start": 45,
+          "url": "https://t.co/EXogkW7Zhw"
+        },
+        {
+          "display_url": "pic.x.com/EXogkW7Zhw",
+          "end": 68,
+          "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+          "media_key": "3_2091566697077706752",
+          "start": 45,
+          "url": "https://t.co/EXogkW7Zhw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091833294224801843",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091566665083568128"
+      },
+      {
+        "media_key": "3_2091566677360263168"
+      },
+      {
+        "media_key": "3_2091566688957538304"
+      },
+      {
+        "media_key": "3_2091566697077706752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091566703683747979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xihbo3: 禧的价格表\n求入门😿 \n想要转发 详情见图\n我想要很多钱和很多爱 https://t.co/EXogkW7Zhw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2091566665083568128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQa8zOBawAAsWYT.jpg",
+        "width": 2160
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091566677360263168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQa8z7waQAA8OBa.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2091566688957538304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQa80m9aoAAfv6u.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1594,
+        "media_key": "3_2091566697077706752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQa81FNakAAtZk4.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091566665083568128",
+            "3_2091566677360263168",
+            "3_2091566688957538304",
+            "3_2091566697077706752"
+          ],
+          "media_source_tweet_id": [
+            "2091566703683747979",
+            "2091566703683747979",
+            "2091566703683747979",
+            "2091566703683747979"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2091833294224801843",
+        "created_at": "2026-08-24T10:21:36.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091833294224801843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091091751054532608",
+              "start": 3,
+              "username": "xihbo3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXogkW7Zhw",
+              "end": 68,
+              "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+              "media_key": "3_2091566665083568128",
+              "start": 45,
+              "url": "https://t.co/EXogkW7Zhw"
+            },
+            {
+              "display_url": "pic.x.com/EXogkW7Zhw",
+              "end": 68,
+              "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+              "media_key": "3_2091566677360263168",
+              "start": 45,
+              "url": "https://t.co/EXogkW7Zhw"
+            },
+            {
+              "display_url": "pic.x.com/EXogkW7Zhw",
+              "end": 68,
+              "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+              "media_key": "3_2091566688957538304",
+              "start": 45,
+              "url": "https://t.co/EXogkW7Zhw"
+            },
+            {
+              "display_url": "pic.x.com/EXogkW7Zhw",
+              "end": 68,
+              "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+              "media_key": "3_2091566697077706752",
+              "start": 45,
+              "url": "https://t.co/EXogkW7Zhw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091833294224801843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091566665083568128"
+          },
+          {
+            "media_key": "3_2091566677360263168"
+          },
+          {
+            "media_key": "3_2091566688957538304"
+          },
+          {
+            "media_key": "3_2091566697077706752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091566703683747979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xihbo3: 禧的价格表\n求入门😿 \n想要转发 详情见图\n我想要很多钱和很多爱 https://t.co/EXogkW7Zhw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091566665083568128",
+            "3_2091566677360263168",
+            "3_2091566688957538304",
+            "3_2091566697077706752"
+          ]
+        },
+        "author_id": "2091091751054532608",
+        "conversation_id": "2091566703683747979",
+        "created_at": "2026-08-23T16:42:16.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091566703683747979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXogkW7Zhw",
+              "end": 56,
+              "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+              "media_key": "3_2091566665083568128",
+              "start": 33,
+              "url": "https://t.co/EXogkW7Zhw"
+            },
+            {
+              "display_url": "pic.x.com/EXogkW7Zhw",
+              "end": 56,
+              "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+              "media_key": "3_2091566677360263168",
+              "start": 33,
+              "url": "https://t.co/EXogkW7Zhw"
+            },
+            {
+              "display_url": "pic.x.com/EXogkW7Zhw",
+              "end": 56,
+              "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+              "media_key": "3_2091566688957538304",
+              "start": 33,
+              "url": "https://t.co/EXogkW7Zhw"
+            },
+            {
+              "display_url": "pic.x.com/EXogkW7Zhw",
+              "end": 56,
+              "expanded_url": "https://x.com/xihbo3/status/2091566703683747979/photo/1",
+              "media_key": "3_2091566697077706752",
+              "start": 33,
+              "url": "https://t.co/EXogkW7Zhw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091566703683747979",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091566665083568128"
+          },
+          {
+            "media_key": "3_2091566677360263168"
+          },
+          {
+            "media_key": "3_2091566688957538304"
+          },
+          {
+            "media_key": "3_2091566697077706752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 283,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "禧的价格表\n求入门😿 \n想要转发 详情见图\n我想要很多钱和很多爱 https://t.co/EXogkW7Zhw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2091833294224801843",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 185,
+          "like_count": 1824,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1295
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T09:16:02.000Z",
+        "description": "=禧\n🚪20纯绿🚪52半绿🚪152非绿\n不接线下",
+        "id": "2091091751054532608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091798380083327376",
+        "name": "xi",
+        "pinned_tweet_id": "2091097025685434583",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091092335270780928/TZiJ20_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "xihbo3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

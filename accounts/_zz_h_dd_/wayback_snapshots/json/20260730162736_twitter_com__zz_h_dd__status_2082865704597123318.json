@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082851322324463616"
+      ],
+      "media_source_tweet_id": [
+        "2082851342591340772"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2082865704597123318",
+    "created_at": "2026-07-30T16:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082865704597123318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2058029942198374400",
+          "start": 3,
+          "username": "yudia666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KdvSecx1Hm",
+          "end": 45,
+          "expanded_url": "https://x.com/yudia666/status/2082851342591340772/photo/1",
+          "media_key": "3_2082851322324463616",
+          "start": 22,
+          "url": "https://t.co/KdvSecx1Hm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082865704597123318",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082851342591340772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yudia666: It's me https://t.co/KdvSecx1Hm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 216,
+        "media_key": "3_2082851322324463616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfGPgMaMAAQMns.jpg",
+        "width": 290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082851322324463616"
+          ]
+        },
+        "author_id": "2058029942198374400",
+        "conversation_id": "2082851342591340772",
+        "created_at": "2026-07-30T15:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082851342591340772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdvSecx1Hm",
+              "end": 31,
+              "expanded_url": "https://x.com/yudia666/status/2082851342591340772/photo/1",
+              "media_key": "3_2082851322324463616",
+              "start": 8,
+              "url": "https://t.co/KdvSecx1Hm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082851342591340772",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "It's me https://t.co/KdvSecx1Hm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082851322324463616"
+          ],
+          "media_source_tweet_id": [
+            "2082851342591340772"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2082865704597123318",
+        "created_at": "2026-07-30T16:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082865704597123318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2058029942198374400",
+              "start": 3,
+              "username": "yudia666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdvSecx1Hm",
+              "end": 45,
+              "expanded_url": "https://x.com/yudia666/status/2082851342591340772/photo/1",
+              "media_key": "3_2082851322324463616",
+              "start": 22,
+              "url": "https://t.co/KdvSecx1Hm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082865704597123318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082851342591340772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yudia666: It's me https://t.co/KdvSecx1Hm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 94,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者 极端主义 嗑大了会说胡话 请随便骚扰我 211fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "محافظة شرق الدولة الإسلامية",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️",
+        "pinned_tweet_id": "2071924273778921875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 205,
+          "like_count": 26069,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2168
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

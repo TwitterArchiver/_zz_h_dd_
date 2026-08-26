@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2086481162051190940",
+    "created_at": "2026-08-09T15:54:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086481162051190940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961527547344424962",
+          "start": 3,
+          "username": "shuyo0722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086481162051190940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086452599944049049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuyo0722: 120fo福利来力\n开奖日期是8.20的晚上7.22（北京时间）\n\n抽奖参与人数每10个加抽一杯柠檬水\n转发里10个人以上\n从转发里开一杯柠檬水\n（附加奖励要等九月份我生活费出来...）\n\n注意事项都写在里头啦，欢迎各位捧场参加\n感恩有你们！玩推特…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2112,
+        "media_key": "3_2086452592503361537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSRlBDbEAEuz6v.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2086481162051190940",
+        "created_at": "2026-08-09T15:54:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086481162051190940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961527547344424962",
+              "start": 3,
+              "username": "shuyo0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086481162051190940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086452599944049049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuyo0722: 120fo福利来力\n开奖日期是8.20的晚上7.22（北京时间）\n\n抽奖参与人数每10个加抽一杯柠檬水\n转发里10个人以上\n从转发里开一杯柠檬水\n（附加奖励要等九月份我生活费出来...）\n\n注意事项都写在里头啦，欢迎各位捧场参加\n感恩有你们！玩推特…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086452592503361537"
+          ]
+        },
+        "author_id": "1961527547344424962",
+        "conversation_id": "2086452599944049049",
+        "created_at": "2026-08-09T14:00:38.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086452599944049049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIXvj9nNcB",
+              "end": 167,
+              "expanded_url": "https://x.com/shuyo0722/status/2086452599944049049/photo/1",
+              "media_key": "3_2086452592503361537",
+              "start": 144,
+              "url": "https://t.co/fIXvj9nNcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086452599944049049",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086452592503361537"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "120fo福利来力\n开奖日期是8.20的晚上7.22（北京时间）\n\n抽奖参与人数每10个加抽一杯柠檬水\n转发里10个人以上\n从转发里开一杯柠檬水\n（附加奖励要等九月份我生活费出来...）\n\n注意事项都写在里头啦，欢迎各位捧场参加\n感恩有你们！玩推特真的很高兴呀\n置顶双手奉上！🤲\n愿好~ https://t.co/fIXvj9nNcB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2086481162051190940",
+        "name": "スーユウ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 122,
+          "like_count": 1021,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 794
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T20:33:16.000Z",
+        "description": "=施迤/十一/shuyo 丨 只互fo喜欢的丨中国人丨当朋友圈发丨 不聊骚不聊黄 丨 不要为了互fo而关注我 丨 全网最有素质的人 丨 🈚🚪不加联系方式 丨 匿名关闭× 丨 异性恋谢谢",
+        "id": "1961527547344424962",
+        "is_identity_verified": false,
+        "location": "7.2km",
+        "most_recent_tweet_id": "2086459861194436974",
+        "name": "施迤_shuyo@無言購読アカウント",
+        "pinned_tweet_id": "2086452599944049049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961527547344424962/1756501394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078372729171120128/MYYMjF51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 43,
+          "like_count": 3464,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1734
+        },
+        "url": "",
+        "username": "shuyo0722",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

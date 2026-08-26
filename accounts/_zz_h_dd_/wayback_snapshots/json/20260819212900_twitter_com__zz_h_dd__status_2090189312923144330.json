@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090189312923144330",
+    "created_at": "2026-08-19T21:29:00.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T22:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090189312923144330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041875296618737666",
+          "start": 3,
+          "username": "Yaoguoez0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090189312923144330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089969206993527147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yaoguoez0: 他妈滴开学要开到我头上来了 学校的胆子真是肥嘟嘟的啊 也不打听打听我是谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090189312923144330",
+        "created_at": "2026-08-19T21:29:00.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090189312923144330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041875296618737666",
+              "start": 3,
+              "username": "Yaoguoez0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090189312923144330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089969206993527147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yaoguoez0: 他妈滴开学要开到我头上来了 学校的胆子真是肥嘟嘟的啊 也不打听打听我是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041875296618737666",
+        "conversation_id": "2089969206993527147",
+        "created_at": "2026-08-19T06:54:23.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089969206993527147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089969206993527147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10373,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "他妈滴开学要开到我头上来了 学校的胆子真是肥嘟嘟的啊 也不打听打听我是谁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090189312923144330",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 162,
+          "like_count": 1571,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1079
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T13:46:49.000Z",
+        "description": "",
+        "id": "2041875296618737666",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090133659320009087",
+        "name": "秋",
+        "pinned_tweet_id": "2089420567652995107",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041875296618737666/1779867898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059541309598404608/oaDPmpsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 52,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 443
+        },
+        "url": "",
+        "username": "Yaoguoez0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

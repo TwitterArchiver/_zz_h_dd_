@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090719628318384567",
+    "created_at": "2026-08-21T08:36:17.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090719628318384567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2041028626397937665",
+          "start": 3,
+          "username": "_1haru_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090719628318384567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090716412167995761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_1haru_oxo: 150fo感谢 抽个奖 \n8.31开奖 抱歉最近没太多钱了😖\n一等奖→10元转款*1\n二等奖→6.66元*2\n三等奖→5.2元*3\n安慰奖大概0.52会抽五个👉🏻👈🏻\n点赞➕转发➕关注➕评论有效\n会使用随机数软件抽奖\n请注意私信 9.5前没有回应…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090719628318384567",
+        "created_at": "2026-08-21T08:36:17.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090719628318384567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2041028626397937665",
+              "start": 3,
+              "username": "_1haru_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090719628318384567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090716412167995761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_1haru_oxo: 150fo感谢 抽个奖 \n8.31开奖 抱歉最近没太多钱了😖\n一等奖→10元转款*1\n二等奖→6.66元*2\n三等奖→5.2元*3\n安慰奖大概0.52会抽五个👉🏻👈🏻\n点赞➕转发➕关注➕评论有效\n会使用随机数软件抽奖\n请注意私信 9.5前没有回应…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041028626397937665",
+        "conversation_id": "2090716412167995761",
+        "created_at": "2026-08-21T08:23:30.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090716412167995761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090716412167995761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "150fo感谢 抽个奖 \n8.31开奖 抱歉最近没太多钱了😖\n一等奖→10元转款*1\n二等奖→6.66元*2\n三等奖→5.2元*3\n安慰奖大概0.52会抽五个👉🏻👈🏻\n点赞➕转发➕关注➕评论有效\n会使用随机数软件抽奖\n请注意私信 9.5前没有回应不补"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090719628318384567",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 167,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T05:42:36.000Z",
+        "description": "haru 兔椿椿｜08｜♀｜非健全｜清水推\n防炸/大量负面吐槽@2_haru_ovo \n我讨厌健全人阳光女高女大等 请自行离开\n不接塔罗外的任何业务 骚扰我的滚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "2_haru_ovo"
+              }
+            ]
+          }
+        },
+        "id": "2041028626397937665",
+        "is_identity_verified": false,
+        "location": "塔罗15一问 40三问 200包月20问 ",
+        "most_recent_tweet_id": "2090719020643438704",
+        "name": "兔椿椿",
+        "pinned_tweet_id": "2089736521335349518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041028626397937665/1786355618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090717782065430528/WSwvNclG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 138,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 796
+        },
+        "url": "",
+        "username": "_1haru_oxo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

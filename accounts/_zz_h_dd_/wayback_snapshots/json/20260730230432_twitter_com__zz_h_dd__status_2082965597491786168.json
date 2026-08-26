@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2082948192489046407",
+    "created_at": "2026-07-30T23:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082965597491786168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2082927439928537088",
+          "start": 0,
+          "username": "FengYunTiam4e3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082965597491786168",
+    "in_reply_to_user_id": "2082927439928537088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082948192489046407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FengYunTiam4e3 是不是年龄设置错了👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15618,
+        "height": 1280,
+        "media_key": "13_2082948137107546112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082948137107546112/img/Uy8CQOpsvc3rz3c5.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082948137107546112/vid/avc1/320x690/14uJ95JsUq5klQfW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082948137107546112/vid/avc1/480x1036/Gt3yrZCX0jS-OM32.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082948137107546112/vid/avc1/592x1280/7fuSF_UDH8pRsazS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082948137107546112/pl/70vfJO4hVDLjoYcG.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2082948192489046407",
+        "created_at": "2026-07-30T23:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082965597491786168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082927439928537088",
+              "start": 0,
+              "username": "FengYunTiam4e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082965597491786168",
+        "in_reply_to_user_id": "2082927439928537088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082948192489046407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengYunTiam4e3 是不是年龄设置错了👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082948137107546112"
+          ]
+        },
+        "author_id": "2082927439928537088",
+        "conversation_id": "2082948192489046407",
+        "created_at": "2026-07-30T21:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082948192489046407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLVugeiLf1",
+              "end": 26,
+              "expanded_url": "https://x.com/FengYunTiam4e3/status/2082948192489046407/video/1",
+              "media_key": "13_2082948137107546112",
+              "start": 3,
+              "url": "https://t.co/VLVugeiLf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082948192489046407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助 https://t.co/VLVugeiLf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 105,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 522
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-30T20:34:02.000Z",
+        "description": "",
+        "id": "2082927439928537088",
+        "name": "零碎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082944946005594112/qOAVy-Nn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "FengYunTiam4e3",
+        "verified": false
+      }
+    ]
+  }
+}

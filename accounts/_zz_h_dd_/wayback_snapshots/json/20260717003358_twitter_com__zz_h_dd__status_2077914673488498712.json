@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2077602181830832191",
+    "created_at": "2026-07-17T00:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T01:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077914673488498712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910008101371273225",
+          "start": 0,
+          "username": "paopao152025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077914673488498712",
+    "in_reply_to_user_id": "1910008101371273225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077602181830832191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopao152025 傻逼家庭我在上海一个月就给我500 现在每天饿2顿 几乎没有娱乐 每天就是在床上从左边翻到右边接着玩手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2077602181830832191",
+        "created_at": "2026-07-17T00:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077914673488498712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910008101371273225",
+              "start": 0,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077914673488498712",
+        "in_reply_to_user_id": "1910008101371273225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077602181830832191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao152025 傻逼家庭我在上海一个月就给我500 现在每天饿2顿 几乎没有娱乐 每天就是在床上从左边翻到右边接着玩手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910008101371273225",
+        "conversation_id": "2077602181830832191",
+        "created_at": "2026-07-16T03:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077602181830832191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kotoro0223/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/kotoro0223/status/2077014507592044686",
+              "start": 28,
+              "url": "https://t.co/JFaPcWgKq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077602181830832191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5986,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077014507592044686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像我们这种穷逼家庭反而特别清楚自己家里的经济情况😂😇😇 https://t.co/JFaPcWgKq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "17歳/気に入ったらリプしてね/チャットでもどうぞ",
+        "id": "2077517932532527104",
+        "location": "涩谷",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "我说的都是胡话瞎发的很多都是上句不接下句纯自己唠叨自言自语🙏推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "闭关修仙中 淡推",
+        "name": "泡泡",
+        "pinned_tweet_id": "2077780500039786681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6769,
+          "following_count": 216,
+          "like_count": 10333,
+          "listed_count": 7,
+          "media_count": 62,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090115468791087287",
+    "created_at": "2026-08-22T02:03:01.000Z",
+    "display_text_range": [
+      11,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T03:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090983046447235153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2070894225290625025",
+          "start": 0,
+          "username": "xuemin016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090983046447235153",
+    "in_reply_to_user_id": "2070894225290625025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090115468791087287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuemin016 樱花和书虫是我最喜欢的 太可爱了aaaaaaaaa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090115421923860480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGU5v9WYAAjCgZ.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1728,
+        "media_key": "3_2090115433932242944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGU6csXwAA5nuG.jpg",
+        "width": 3840
+      },
+      {
+        "height": 1728,
+        "media_key": "3_2090115449073586176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGU7VGWUAACql7.jpg",
+        "width": 3840
+      },
+      {
+        "height": 1728,
+        "media_key": "3_2090115458644992000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGU74wWYAAq10I.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090115468791087287",
+        "created_at": "2026-08-22T02:03:01.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090983046447235153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2070894225290625025",
+              "start": 0,
+              "username": "xuemin016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090983046447235153",
+        "in_reply_to_user_id": "2070894225290625025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090115468791087287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemin016 樱花和书虫是我最喜欢的 太可爱了aaaaaaaaa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090115421923860480",
+            "3_2090115433932242944",
+            "3_2090115449073586176",
+            "3_2090115458644992000"
+          ]
+        },
+        "author_id": "2070894225290625025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090115468791087287",
+        "created_at": "2026-08-19T16:35:34.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090115468791087287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "sky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHJOsPCOKC",
+              "end": 87,
+              "expanded_url": "https://x.com/xuemin016/status/2090115468791087287/photo/1",
+              "media_key": "3_2090115421923860480",
+              "start": 64,
+              "url": "https://t.co/aHJOsPCOKC"
+            },
+            {
+              "display_url": "pic.x.com/aHJOsPCOKC",
+              "end": 87,
+              "expanded_url": "https://x.com/xuemin016/status/2090115468791087287/photo/1",
+              "media_key": "3_2090115433932242944",
+              "start": 64,
+              "url": "https://t.co/aHJOsPCOKC"
+            },
+            {
+              "display_url": "pic.x.com/aHJOsPCOKC",
+              "end": 87,
+              "expanded_url": "https://x.com/xuemin016/status/2090115468791087287/photo/1",
+              "media_key": "3_2090115449073586176",
+              "start": 64,
+              "url": "https://t.co/aHJOsPCOKC"
+            },
+            {
+              "display_url": "pic.x.com/aHJOsPCOKC",
+              "end": 87,
+              "expanded_url": "https://x.com/xuemin016/status/2090115468791087287/photo/1",
+              "media_key": "3_2090115458644992000",
+              "start": 64,
+              "url": "https://t.co/aHJOsPCOKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090115468791087287",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090115421923860480"
+          },
+          {
+            "media_key": "3_2090115433932242944"
+          },
+          {
+            "media_key": "3_2090115449073586176"
+          },
+          {
+            "media_key": "3_2090115458644992000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#sky 樱花占领全世界！！樱花妹妹最可爱！！樱花占领全世界！樱花妹妹最可爱！！樱花占领全世界！樱花妹妹最可爱！！太喜欢樱花了 https://t.co/aHJOsPCOKC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090983046447235153",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 179,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T15:38:15.000Z",
+        "description": "私は中国の出身です、誕生日2009.08、「ホシノ」のファンなんです、大好きです大好きです「ホシノチャン」。もっと日本人の友達を作りたいです。",
+        "id": "2070894225290625025",
+        "is_identity_verified": false,
+        "location": "アビドス高等学校",
+        "most_recent_tweet_id": "2090982898648109544",
+        "name": "シュエミン",
+        "pinned_tweet_id": "2084330840763384044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070894225290625025/1785666689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084254458884874240/HbLbUpqk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 118,
+          "like_count": 1045,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "xuemin016",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083123933034029056",
+        "3_2083123933059145728"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2083123939136725003",
+    "created_at": "2026-07-31T09:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083123939136725003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rL1MvLp5Zd",
+          "end": 32,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2083123939136725003/photo/1",
+          "media_key": "3_2083123933034029056",
+          "start": 9,
+          "url": "https://t.co/rL1MvLp5Zd"
+        },
+        {
+          "display_url": "pic.x.com/rL1MvLp5Zd",
+          "end": 32,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2083123939136725003/photo/1",
+          "media_key": "3_2083123933059145728",
+          "start": 9,
+          "url": "https://t.co/rL1MvLp5Zd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083123939136725003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1:单身\n2没有 https://t.co/rL1MvLp5Zd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2083123933034029056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi-LiOboAAmbjX.jpg",
+        "width": 1242
+      },
+      {
+        "height": 845,
+        "media_key": "3_2083123933059145728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi-LiUa4AA927V.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083123933034029056",
+            "3_2083123933059145728"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2083123939136725003",
+        "created_at": "2026-07-31T09:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083123939136725003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL1MvLp5Zd",
+              "end": 32,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2083123939136725003/photo/1",
+              "media_key": "3_2083123933034029056",
+              "start": 9,
+              "url": "https://t.co/rL1MvLp5Zd"
+            },
+            {
+              "display_url": "pic.x.com/rL1MvLp5Zd",
+              "end": 32,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2083123939136725003/photo/1",
+              "media_key": "3_2083123933059145728",
+              "start": 9,
+              "url": "https://t.co/rL1MvLp5Zd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083123939136725003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1:单身\n2没有 https://t.co/rL1MvLp5Zd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 102,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

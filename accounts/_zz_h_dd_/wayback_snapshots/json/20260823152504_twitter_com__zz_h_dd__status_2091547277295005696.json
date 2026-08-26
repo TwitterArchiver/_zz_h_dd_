@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087491122792914944",
+        "3_2087491123694714880",
+        "3_2087491127272435712"
+      ],
+      "media_source_tweet_id": [
+        "2087491130250403862",
+        "2087491130250403862",
+        "2087491130250403862"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091547277295005696",
+    "created_at": "2026-08-23T15:25:04.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091547277295005696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2082048712696803328",
+          "start": 3,
+          "username": "BanLi_mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7n1E7mxlVW",
+          "end": 92,
+          "expanded_url": "https://x.com/BanLi_mi/status/2087491130250403862/photo/1",
+          "media_key": "3_2087491122792914944",
+          "start": 69,
+          "url": "https://t.co/7n1E7mxlVW"
+        },
+        {
+          "display_url": "pic.x.com/7n1E7mxlVW",
+          "end": 92,
+          "expanded_url": "https://x.com/BanLi_mi/status/2087491130250403862/photo/1",
+          "media_key": "3_2087491123694714880",
+          "start": 69,
+          "url": "https://t.co/7n1E7mxlVW"
+        },
+        {
+          "display_url": "pic.x.com/7n1E7mxlVW",
+          "end": 92,
+          "expanded_url": "https://x.com/BanLi_mi/status/2087491130250403862/photo/1",
+          "media_key": "3_2087491127272435712",
+          "start": 69,
+          "url": "https://t.co/7n1E7mxlVW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091547277295005696",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087491122792914944"
+      },
+      {
+        "media_key": "3_2087491123694714880"
+      },
+      {
+        "media_key": "3_2087491127272435712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087491130250403862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BanLi_mi: 叫我板栗就好！\n 年龄你猜。\n哦滴。zc。抽烟  \n我比较喜欢胡言乱语  \n欢迎同类互fo呀\n我想和你们互转 https://t.co/7n1E7mxlVW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2087491122792914944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhCHb3aYAA13Io.jpg",
+        "width": 1072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087491123694714880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhCHfOawAAQByt.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087491127272435712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhCHsjacAAhJeF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087491122792914944",
+            "3_2087491123694714880",
+            "3_2087491127272435712"
+          ],
+          "media_source_tweet_id": [
+            "2087491130250403862",
+            "2087491130250403862",
+            "2087491130250403862"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091547277295005696",
+        "created_at": "2026-08-23T15:25:04.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091547277295005696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2082048712696803328",
+              "start": 3,
+              "username": "BanLi_mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7n1E7mxlVW",
+              "end": 92,
+              "expanded_url": "https://x.com/BanLi_mi/status/2087491130250403862/photo/1",
+              "media_key": "3_2087491122792914944",
+              "start": 69,
+              "url": "https://t.co/7n1E7mxlVW"
+            },
+            {
+              "display_url": "pic.x.com/7n1E7mxlVW",
+              "end": 92,
+              "expanded_url": "https://x.com/BanLi_mi/status/2087491130250403862/photo/1",
+              "media_key": "3_2087491123694714880",
+              "start": 69,
+              "url": "https://t.co/7n1E7mxlVW"
+            },
+            {
+              "display_url": "pic.x.com/7n1E7mxlVW",
+              "end": 92,
+              "expanded_url": "https://x.com/BanLi_mi/status/2087491130250403862/photo/1",
+              "media_key": "3_2087491127272435712",
+              "start": 69,
+              "url": "https://t.co/7n1E7mxlVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091547277295005696",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087491122792914944"
+          },
+          {
+            "media_key": "3_2087491123694714880"
+          },
+          {
+            "media_key": "3_2087491127272435712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087491130250403862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BanLi_mi: 叫我板栗就好！\n 年龄你猜。\n哦滴。zc。抽烟  \n我比较喜欢胡言乱语  \n欢迎同类互fo呀\n我想和你们互转 https://t.co/7n1E7mxlVW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087491122792914944",
+            "3_2087491123694714880",
+            "3_2087491127272435712"
+          ]
+        },
+        "author_id": "2082048712696803328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087491130250403862",
+        "created_at": "2026-08-12T10:47:23.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087491130250403862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7n1E7mxlVW",
+              "end": 78,
+              "expanded_url": "https://x.com/BanLi_mi/status/2087491130250403862/photo/1",
+              "media_key": "3_2087491122792914944",
+              "start": 55,
+              "url": "https://t.co/7n1E7mxlVW"
+            },
+            {
+              "display_url": "pic.x.com/7n1E7mxlVW",
+              "end": 78,
+              "expanded_url": "https://x.com/BanLi_mi/status/2087491130250403862/photo/1",
+              "media_key": "3_2087491123694714880",
+              "start": 55,
+              "url": "https://t.co/7n1E7mxlVW"
+            },
+            {
+              "display_url": "pic.x.com/7n1E7mxlVW",
+              "end": 78,
+              "expanded_url": "https://x.com/BanLi_mi/status/2087491130250403862/photo/1",
+              "media_key": "3_2087491127272435712",
+              "start": 55,
+              "url": "https://t.co/7n1E7mxlVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087491130250403862",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087491122792914944"
+          },
+          {
+            "media_key": "3_2087491123694714880"
+          },
+          {
+            "media_key": "3_2087491127272435712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 811,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "叫我板栗就好！\n 年龄你猜。\n哦滴。zc。抽烟  \n我比较喜欢胡言乱语  \n欢迎同类互fo呀\n我想和你们互转 https://t.co/7n1E7mxlVW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2091547277295005696",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 189,
+          "like_count": 1811,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T10:23:25.000Z",
+        "description": "前世：@shanhu_mi \n叫我板栗就好！ \n年龄你猜。 od。zc。抽烟  \n我比较喜欢自言自语  \n欢迎同类互fo呀！ \n🚪52好友位和圈圈 🚪88 被动聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "shanhu_mi"
+              }
+            ]
+          }
+        },
+        "id": "2082048712696803328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088316188795482370",
+        "name": "板栗2.0",
+        "pinned_tweet_id": "2087491130250403862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082048712696803328/1785234511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082049978130890752/Hb-XMAi3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 27,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "BanLi_mi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

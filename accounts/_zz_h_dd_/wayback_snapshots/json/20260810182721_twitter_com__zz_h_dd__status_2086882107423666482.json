@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2086882107423666482",
+    "created_at": "2026-08-10T18:27:21.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086882107423666482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2082162070422999040",
+          "start": 3,
+          "username": "Bryophyta02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086882107423666482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082887236539048041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bryophyta02: 麻烦再转一下这个贴 抱歉抱歉 这个号又被ban了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2086882107423666482",
+        "created_at": "2026-08-10T18:27:21.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086882107423666482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082162070422999040",
+              "start": 3,
+              "username": "Bryophyta02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086882107423666482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082887236539048041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bryophyta02: 麻烦再转一下这个贴 抱歉抱歉 这个号又被ban了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082162070422999040",
+        "conversation_id": "2082887236539048041",
+        "created_at": "2026-07-30T17:53:10.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082887236539048041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaotunovo0/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/xiaotunovo0/status/2082484593471766531",
+              "start": 25,
+              "url": "https://t.co/ZfLLu6CLw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082887236539048041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082484593471766531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麻烦再转一下这个贴 抱歉抱歉 这个号又被ban了 https://t.co/ZfLLu6CLw4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2086882107423666482",
+        "name": "スーユウ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 131,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T17:52:25.000Z",
+        "description": "鸡友@MISTERK0937\n阴暗的沼泽生物/od/精神病/欢迎互fo查成分/欢迎找我聊天/金属乐/二次元/穿孔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "MISTERK0937"
+              }
+            ]
+          }
+        },
+        "id": "2082162070422999040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2082887236539048041",
+        "name": "苔藓",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082162070422999040/1785261559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082169935518961664/oKzFlwrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "Bryophyta02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

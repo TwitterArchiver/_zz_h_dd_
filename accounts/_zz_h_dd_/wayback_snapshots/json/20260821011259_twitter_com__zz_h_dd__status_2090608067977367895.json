@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090371687539687528",
+    "created_at": "2026-08-21T01:12:59.000Z",
+    "display_text_range": [
+      27,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090608067977367895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084990480618770432",
+          "start": 0,
+          "username": "yuda3_8964"
+        },
+        {
+          "end": 26,
+          "id": "1926349401007554561",
+          "start": 12,
+          "username": "dondonyang710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090608067977367895",
+    "in_reply_to_user_id": "2084990480618770432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090371687539687528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda3_8964 @dondonyang710 这种植物好买吗 我是不是可以自己养大一棵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2090371658146324480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJ98qRbIAAPkr2.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1219,
+        "media_key": "3_2090371671228301312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJ99bAaQAASboS.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090371687539687528",
+        "created_at": "2026-08-21T01:12:59.000Z",
+        "display_text_range": [
+          27,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090608067977367895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084990480618770432",
+              "start": 0,
+              "username": "yuda3_8964"
+            },
+            {
+              "end": 26,
+              "id": "1926349401007554561",
+              "start": 12,
+              "username": "dondonyang710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090608067977367895",
+        "in_reply_to_user_id": "2084990480618770432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090371687539687528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda3_8964 @dondonyang710 这种植物好买吗 我是不是可以自己养大一棵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090371658146324480",
+            "3_2090371671228301312"
+          ]
+        },
+        "author_id": "2084990480618770432",
+        "conversation_id": "2090371687539687528",
+        "created_at": "2026-08-20T09:33:42.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090371687539687528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2NfCUGP7m",
+              "end": 26,
+              "expanded_url": "https://x.com/yuda3_8964/status/2090371687539687528/photo/1",
+              "media_key": "3_2090371658146324480",
+              "start": 3,
+              "url": "https://t.co/x2NfCUGP7m"
+            },
+            {
+              "display_url": "pic.x.com/x2NfCUGP7m",
+              "end": 26,
+              "expanded_url": "https://x.com/yuda3_8964/status/2090371687539687528/photo/1",
+              "media_key": "3_2090371671228301312",
+              "start": 3,
+              "url": "https://t.co/x2NfCUGP7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090371687539687528",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090371658146324480"
+          },
+          {
+            "media_key": "3_2090371671228301312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2748,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "极乐 https://t.co/x2NfCUGP7m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090608067977367895",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 165,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T13:12:24.000Z",
+        "description": "一个神秘的乐乐 三代目",
+        "id": "2084990480618770432",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2090450394329792650",
+        "name": "𝖞𝖚𝖉𝖆،梦想挂了🏴‍☠️三代目",
+        "pinned_tweet_id": "2088945070762491931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084990480618770432/1785936237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084991632076865537/chE31pU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 139,
+          "like_count": 4991,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "yuda3_8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-24T18:47:55.000Z",
+        "description": "ig:dondonyang710\n本科 攝影專業在讀｜獨立攝影\n互fo｜07｜全世界最会挂壁的人类\n8.15-8.23大阪DeadBooks Gallery参展\n九月参与我们的摄影书全国巡展\n未来准备在香港做自己的第一个个展",
+        "id": "1926349401007554561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090509673296507261",
+        "name": "dondon🐏",
+        "pinned_tweet_id": "2087046118681280701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1926349401007554561/1784470675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926349614766030848/sCR3xdnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 38,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "dondonyang710",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

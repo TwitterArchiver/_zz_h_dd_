@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2084349689953181841",
+    "created_at": "2026-08-03T18:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T19:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084352901041066037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2081823280152051712",
+          "start": 0,
+          "username": "zz_zc_dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084352901041066037",
+    "in_reply_to_user_id": "2081823280152051712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084349689953181841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz_zc_dd 我操了 这我小号被锁了 我原本想发大号的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2084349681996587008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0Y_g8a4AAwTSc.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2084349682013380610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0Y_hAbIAI6pfd.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2084349689953181841",
+        "created_at": "2026-08-03T18:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084352901041066037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2081823280152051712",
+              "start": 0,
+              "username": "zz_zc_dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084352901041066037",
+        "in_reply_to_user_id": "2081823280152051712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084349689953181841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz_zc_dd 我操了 这我小号被锁了 我原本想发大号的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084349681996587008",
+            "3_2084349682013380610"
+          ]
+        },
+        "author_id": "2081823280152051712",
+        "conversation_id": "2084349689953181841",
+        "created_at": "2026-08-03T18:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084349689953181841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CFoNBi0u8A",
+              "end": 35,
+              "expanded_url": "https://x.com/zz_zc_dd/status/2084349689953181841/photo/1",
+              "media_key": "3_2084349681996587008",
+              "start": 12,
+              "url": "https://t.co/CFoNBi0u8A"
+            },
+            {
+              "display_url": "pic.x.com/CFoNBi0u8A",
+              "end": 35,
+              "expanded_url": "https://x.com/zz_zc_dd/status/2084349689953181841/photo/1",
+              "media_key": "3_2084349682013380610",
+              "start": 12,
+              "url": "https://t.co/CFoNBi0u8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084349689953181841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "申请查看醒图使用时长🌚 https://t.co/CFoNBi0u8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 112,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-27T19:27:21.000Z",
+        "description": "记录我的傻逼生活",
+        "id": "2081823280152051712",
+        "location": "5.20km",
+        "name": "ニャー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081824073332703232/v8n_owyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "zz_zc_dd",
+        "verified": false
+      }
+    ]
+  }
+}

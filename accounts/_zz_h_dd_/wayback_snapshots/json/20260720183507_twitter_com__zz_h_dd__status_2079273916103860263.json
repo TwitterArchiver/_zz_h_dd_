@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2079272347316727845",
+    "created_at": "2026-07-20T18:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079273916103860263"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079273916103860263",
+    "in_reply_to_user_id": "2077517932532527104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079272347316727845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我房间没有门 他们看得到 知道有一次被抓了 我爸扇我 把我手机摔了 他们还发现我晚上偷手机玩 把我密码改了 那天晚上他们一直在看我和别人的聊天记录 我没有隐私 当时了解现在什么火是通过同学聊天内容 我们班主任一个老太婆天天掐我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2079272347316727845",
+        "created_at": "2026-07-20T18:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079273916103860263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079273916103860263",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079272347316727845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我房间没有门 他们看得到 知道有一次被抓了 我爸扇我 把我手机摔了 他们还发现我晚上偷手机玩 把我密码改了 那天晚上他们一直在看我和别人的聊天记录 我没有隐私 当时了解现在什么火是通过同学聊天内容 我们班主任一个老太婆天天掐我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2079272347316727845",
+        "created_at": "2026-07-20T18:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079272347316727845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079272347316727845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从小就没有我自己的手机 小学帮我爸妈洗碗扔垃圾好几年赚了2000多买了我爸不用的苹果8 没到手就给我收了 让我好好学习 双休日国画跆拳道语数英书法全部排满 写作业都快没时间 上学看着他们聊游戏我就一个人呆在角落 唯一一个和我玩的同学爸妈离婚转学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "17/生理女/泛性恋/ISFP/轻躁狂/异食癖/焦虑症/💊/🚬/🍺/几乎无雷/不擅长聊天见谅/上学中🎒/异宠/查成分回fo/匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ（互fo）",
+        "pinned_tweet_id": "2078940612490146036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 26,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

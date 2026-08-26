@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2091189894072905734",
+    "created_at": "2026-08-22T16:26:37.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091200378255904814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842892851958681600",
+          "start": 0,
+          "username": "pharaoh420_sq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091200378255904814",
+    "in_reply_to_user_id": "1842892851958681600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091189894072905734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pharaoh420_sq 群里啥呀有点看不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2091189894072905734",
+        "created_at": "2026-08-22T16:26:37.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091200378255904814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842892851958681600",
+              "start": 0,
+              "username": "pharaoh420_sq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091200378255904814",
+        "in_reply_to_user_id": "1842892851958681600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091189894072905734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pharaoh420_sq 群里啥呀有点看不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842892851958681600",
+        "conversation_id": "2091189894072905734",
+        "created_at": "2026-08-22T15:44:57.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091189894072905734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "2727's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qGoN…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qGoNYPkgeBKv",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 目前...只有你。 / X",
+              "unwound_url": "https://x.com/i/spaces/1qGoNYPkgeBKv",
+              "url": "https://t.co/QqcQzDxMoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091189894072905734",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QqcQzDxMoz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2091200378255904814",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 182,
+          "like_count": 1766,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-06T11:41:19.000Z",
+        "description": "♂/生活自理的弱智/黄色废料/视奸万物/贱丑穷傻及一身/炫压抑的肥蛆/二代目@SQ100722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "SQ100722"
+              }
+            ]
+          }
+        },
+        "id": "1842892851958681600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091189894072905734",
+        "name": "2727",
+        "pinned_tweet_id": "2089778984615891282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842892851958681600/1785346440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986515715529310208/Y06OqfkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 52,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "pharaoh420_sq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

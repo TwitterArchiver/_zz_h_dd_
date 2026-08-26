@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2077719863561511071",
+    "created_at": "2026-07-16T19:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077845418554310948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831348282683228163",
+          "start": 0,
+          "username": "myysang520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077845418554310948",
+    "in_reply_to_user_id": "1831348282683228163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077719863561511071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myysang520 醜いのはみんな童貞だろう"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2077719863561511071",
+        "created_at": "2026-07-16T19:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077845418554310948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831348282683228163",
+              "start": 0,
+              "username": "myysang520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077845418554310948",
+        "in_reply_to_user_id": "1831348282683228163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077719863561511071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myysang520 醜いのはみんな童貞だろう"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831348282683228163",
+        "conversation_id": "2077719863561511071",
+        "created_at": "2026-07-16T11:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077719863561511071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077719863561511071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16002,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 238,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这年头处男真比大熊猫稀少啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "17歳/何を言っていいかわからない/気に入ったらリポストします",
+        "id": "2077517932532527104",
+        "location": "涩谷",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:07:23.000Z",
+        "description": "暗黑系女主\n除了脾气不好，其他的都很好。\n纸飞机频道群https://t.co/sjZAfGsMQw（非广）\n感谢关注，禁止许愿",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/myysang0520",
+                "end": 50,
+                "expanded_url": "https://t.me/myysang0520",
+                "start": 27,
+                "url": "https://t.co/sjZAfGsMQw"
+              }
+            ]
+          }
+        },
+        "id": "1831348282683228163",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "羊羊桑",
+        "pinned_tweet_id": "2058213827079270714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076708087625588738/iI1L--3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10373,
+          "following_count": 10,
+          "like_count": 401,
+          "listed_count": 8,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "myysang520",
+        "verified": false
+      }
+    ]
+  }
+}

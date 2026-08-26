@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2083917212486938711",
+    "created_at": "2026-08-02T14:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083929228324831530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778519546388996096",
+          "start": 0,
+          "username": "qnshhun91498298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083929228324831530",
+    "in_reply_to_user_id": "1778519546388996096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083928871070769585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qnshhun91498298 对对对我买的0.1的我买错了😭现在30t有一点欣快感了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2083917212486938711",
+        "created_at": "2026-08-02T14:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083929228324831530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778519546388996096",
+              "start": 0,
+              "username": "qnshhun91498298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083929228324831530",
+        "in_reply_to_user_id": "1778519546388996096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083928871070769585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qnshhun91498298 对对对我买的0.1的我买错了😭现在30t有一点欣快感了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778519546388996096",
+        "conversation_id": "2083917212486938711",
+        "created_at": "2026-08-02T14:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083928871070769585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083928871070769585",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083917212486938711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 这个药是这样的  你是不是买了0.1含量的  有0.3的好一点  但是我那次吃0.1的六十颗都没有多少药效  不如普瑞一根"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 102,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T20:24:46.000Z",
+        "description": "我只是说点od的小胡话不要骂我  我就是一个神经病对不起",
+        "id": "1778519546388996096",
+        "name": "Rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081418621709107200/zm1mlNVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 92,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "qnshhun91498298",
+        "verified": false
+      }
+    ]
+  }
+}

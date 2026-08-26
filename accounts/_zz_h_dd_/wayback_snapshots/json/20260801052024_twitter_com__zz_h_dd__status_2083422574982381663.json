@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2083419044146032722",
+    "created_at": "2026-08-01T05:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083422574982381663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1550761098143580160",
+          "start": 0,
+          "username": "qiewuhaoji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083422574982381663",
+    "in_reply_to_user_id": "1550761098143580160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083421082707718513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiewuhaoji 对呀对呀我之前特别想染荧光绿我自己试了一撮 20天回到黄色了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2083419044146032722",
+        "created_at": "2026-08-01T05:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083422574982381663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1550761098143580160",
+              "start": 0,
+              "username": "qiewuhaoji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083422574982381663",
+        "in_reply_to_user_id": "1550761098143580160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083421082707718513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiewuhaoji 对呀对呀我之前特别想染荧光绿我自己试了一撮 20天回到黄色了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550761098143580160",
+        "conversation_id": "2083419044146032722",
+        "created_at": "2026-08-01T05:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083421082707718513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083421082707718513",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083419044146032722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 绿的可以但是好容易掉。。我蓝色到绿色到黄色只花了四天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 106,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T08:33:59.000Z",
+        "description": "♂\n企鹅五号机 玩玩ff14和阴阳师 裏垢  \n中国人は、日本語が苦手なので翻訳機で話します。\n欢迎私信🔞",
+        "id": "1550761098143580160",
+        "name": "ペンギン五号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550761367120003073/AAnazJgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 1354,
+          "like_count": 12728,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 2017
+        },
+        "url": "",
+        "username": "qiewuhaoji",
+        "verified": false
+      }
+    ]
+  }
+}

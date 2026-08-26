@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2086661704214331723",
+    "created_at": "2026-08-10T22:12:48.000Z",
+    "display_text_range": [
+      12,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T23:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086938845401207143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685845250802327552",
+          "start": 0,
+          "username": "hateuuetah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086938845401207143",
+    "in_reply_to_user_id": "1685845250802327552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086661704214331723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hateuuetah 我的头发就是漂了好多次坏掉了全剪了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2086661704214331723",
+        "created_at": "2026-08-10T22:12:48.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T23:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086938845401207143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685845250802327552",
+              "start": 0,
+              "username": "hateuuetah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086938845401207143",
+        "in_reply_to_user_id": "1685845250802327552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086661704214331723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hateuuetah 我的头发就是漂了好多次坏掉了全剪了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685845250802327552",
+        "conversation_id": "2086661704214331723",
+        "created_at": "2026-08-10T03:51:33.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086661704214331723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086661704214331723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想去漂啊，好贵啊。之前因为贵就直接染了，其实现在我头发也没咋长，依旧黄毛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2086938845401207143",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2086826951956898252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 131,
+          "like_count": 1098,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-31T02:50:20.000Z",
+        "description": "91顶级s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/daydreamers2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/daydreamers2",
+                "start": 0,
+                "url": "https://t.co/29jaP4hxCK"
+              }
+            ]
+          }
+        },
+        "id": "1685845250802327552",
+        "is_identity_verified": false,
+        "location": "提瓦特",
+        "most_recent_tweet_id": "2086875654541418823",
+        "name": "hateu",
+        "pinned_tweet_id": "2081390608967471334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685845250802327552/1779013578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081721407331794944/XoYk4E6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 40,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 945
+        },
+        "url": "https://t.co/29jaP4hxCK",
+        "username": "hateuuetah",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

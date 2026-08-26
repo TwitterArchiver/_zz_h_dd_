@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2079266300963238204",
+    "created_at": "2026-07-20T19:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079280648884486304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961527547344424962",
+          "start": 0,
+          "username": "sh7099222799018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079280648884486304",
+    "in_reply_to_user_id": "1961527547344424962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079266300963238204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sh7099222799018 好柔顺 羡慕了 我的头发被我一直染染坏了 我现在和男生一样。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2026,
+        "media_key": "3_2079266291710627840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsJrQbbEAA1xCo.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2079266300963238204",
+        "created_at": "2026-07-20T19:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079280648884486304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961527547344424962",
+              "start": 0,
+              "username": "sh7099222799018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079280648884486304",
+        "in_reply_to_user_id": "1961527547344424962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079266300963238204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh7099222799018 好柔顺 羡慕了 我的头发被我一直染染坏了 我现在和男生一样。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079266291710627840"
+          ]
+        },
+        "author_id": "1961527547344424962",
+        "conversation_id": "2079266300963238204",
+        "created_at": "2026-07-20T18:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079266300963238204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WAUdg5f6T3",
+              "end": 35,
+              "expanded_url": "https://x.com/sh7099222799018/status/2079266300963238204/photo/1",
+              "media_key": "3_2079266291710627840",
+              "start": 12,
+              "url": "https://t.co/WAUdg5f6T3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079266300963238204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你鬓角稀疏不过我信不信 https://t.co/WAUdg5f6T3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "17/生理女/泛性恋/ISFP/轻躁狂/异食癖/焦虑症/💊/🚬/🍺/几乎无雷/不擅长聊天见谅/上学中🎒/异宠/查成分回fo/匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ（互fo）",
+        "pinned_tweet_id": "2078940612490146036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 26,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T20:33:16.000Z",
+        "description": "=施迤/十一/shuyo 丨 互fo中丨中国人丨当朋友圈发丨 不聊骚不聊黄只是为了发屌丝文案才注册这个app 丨 全网最有素质的人 丨 🈚🚪不加联系方式 丨 匿名提问↙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuyo07221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuyo07221",
+                "start": 0,
+                "url": "https://t.co/xcFdcg9NVV"
+              }
+            ]
+          }
+        },
+        "id": "1961527547344424962",
+        "location": "你心里",
+        "name": "施迤_shuyo@無言購読アカウント",
+        "pinned_tweet_id": "2077154122680463361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078372729171120128/MYYMjF51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 14,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/xcFdcg9NVV",
+        "username": "sh7099222799018",
+        "verified": false
+      }
+    ]
+  }
+}

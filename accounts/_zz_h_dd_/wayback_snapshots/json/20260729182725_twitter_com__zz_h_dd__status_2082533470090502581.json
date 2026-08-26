@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2082532711345086642",
+    "created_at": "2026-07-29T18:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082533470090502581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999623043648491520",
+          "start": 0,
+          "username": "senyoku_saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082533470090502581",
+    "in_reply_to_user_id": "1999623043648491520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082532711345086642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senyoku_saki 宝贝你不恶心你很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2082532711345086642",
+        "created_at": "2026-07-29T18:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082533470090502581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999623043648491520",
+              "start": 0,
+              "username": "senyoku_saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082533470090502581",
+        "in_reply_to_user_id": "1999623043648491520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082532711345086642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senyoku_saki 宝贝你不恶心你很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999623043648491520",
+        "conversation_id": "2082532711345086642",
+        "created_at": "2026-07-29T18:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082532711345086642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082532711345086642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦呀我咋那么恶心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 83,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T23:31:18.000Z",
+        "description": "09丨infp丨直丨中文ok日本語ok丨舞萌丨明日方舟\n直fo就是喜欢你🥺💕\n画画人格@qymmx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 43,
+                "username": "qymmx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usotsuki23381",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usotsuki23381",
+                "start": 0,
+                "url": "https://t.co/YNlehPRGy2"
+              }
+            ]
+          }
+        },
+        "id": "1999623043648491520",
+        "location": "広東、広州",
+        "name": "嘘月",
+        "pinned_tweet_id": "2077620189320138991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076604144920797184/QGTpvJR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 355,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/YNlehPRGy2",
+        "username": "senyoku_saki",
+        "verified": false
+      }
+    ]
+  }
+}

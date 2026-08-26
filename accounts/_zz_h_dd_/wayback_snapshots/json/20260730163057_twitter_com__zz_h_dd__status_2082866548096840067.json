@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2082545856432193900",
+    "created_at": "2026-07-30T16:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082866548096840067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2056749305785167874",
+          "start": 0,
+          "username": "freedomtank8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082866548096840067",
+    "in_reply_to_user_id": "2056749305785167874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082847434095640906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freedomtank8964 互"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2082545856432193900",
+        "created_at": "2026-07-30T16:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082866548096840067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2056749305785167874",
+              "start": 0,
+              "username": "freedomtank8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082866548096840067",
+        "in_reply_to_user_id": "2056749305785167874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082847434095640906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freedomtank8964 互"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056749305785167874",
+        "conversation_id": "2082545856432193900",
+        "created_at": "2026-07-30T15:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082847434095640906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082847434095640906",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082545856432193900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 互吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 96,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T14:50:36.000Z",
+        "description": "以后不会深度键政，只会轻度键政，骂我的都是自己破防的。无明显立场，只串\n粉红、腊左别来沾边，我就要当柜子🤓，小粉红和基本盘破防也没用😂\n反极端主义\n爱做一些梗图，二号机：@superkillerdxp\n有fo必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "superkillerdxp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/freedomtank8964",
+                "end": 23,
+                "expanded_url": "https://t.me/freedomtank8964",
+                "start": 0,
+                "url": "https://t.co/H0leRBh5bD"
+              }
+            ]
+          }
+        },
+        "id": "2056749305785167874",
+        "location": "靖国神社- Japan",
+        "name": "Ment_air",
+        "pinned_tweet_id": "2082161012707598833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082650901928710144/AgxNuNt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 245,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/H0leRBh5bD",
+        "username": "freedomtank8964",
+        "verified": true
+      }
+    ]
+  }
+}

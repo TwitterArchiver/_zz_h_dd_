@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2078157398095884787",
+    "created_at": "2026-07-18T00:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T01:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078282016966181252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702849438350446592",
+          "start": 0,
+          "username": "Reeves898376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078282016966181252",
+    "in_reply_to_user_id": "1702849438350446592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078157398095884787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reeves898376 一个是蝉蛹一个是蚕蛹哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2078157398095884787",
+        "created_at": "2026-07-18T00:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078282016966181252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702849438350446592",
+              "start": 0,
+              "username": "Reeves898376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078282016966181252",
+        "in_reply_to_user_id": "1702849438350446592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078157398095884787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reeves898376 一个是蝉蛹一个是蚕蛹哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702849438350446592",
+        "conversation_id": "2078157398095884787",
+        "created_at": "2026-07-17T16:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078157398095884787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078157398095884787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 762,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蚕蛹不是都是瘦肉吗，怎么我吃的烤蝉蛹像是硬壳里面包着黏糊糊的酱，是坏了吗🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "17歳/喜欢会回关/匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2077930184607707209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T00:58:48.000Z",
+        "description": "06\nWhatsApp：https://t.co/nQMevvyqNA\nThx for following",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wa.me/qr/NJF7GV4XLWZ…",
+                "end": 35,
+                "expanded_url": "https://wa.me/qr/NJF7GV4XLWZ7I1",
+                "start": 12,
+                "url": "https://t.co/nQMevvyqNA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lior70100",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lior70100",
+                "start": 0,
+                "url": "https://t.co/5YkYAmyKos"
+              }
+            ]
+          }
+        },
+        "id": "1702849438350446592",
+        "location": "🚪",
+        "name": "Lior",
+        "pinned_tweet_id": "2070540603058974830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077702636565098496/KspRMxFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 853,
+          "like_count": 11016,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/5YkYAmyKos",
+        "username": "Reeves898376",
+        "verified": false
+      }
+    ]
+  }
+}

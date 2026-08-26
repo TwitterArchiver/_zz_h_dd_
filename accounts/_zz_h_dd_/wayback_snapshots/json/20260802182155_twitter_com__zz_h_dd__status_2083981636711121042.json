@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2083981636711121042",
+    "created_at": "2026-08-02T18:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083981636711121042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663893237793169411",
+          "start": 3,
+          "username": "0715z520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083981636711121042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083957212175815002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0715z520: 万一我真能碰到好男孩呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2083981636711121042",
+        "created_at": "2026-08-02T18:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083981636711121042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663893237793169411",
+              "start": 3,
+              "username": "0715z520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083981636711121042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083957212175815002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0715z520: 万一我真能碰到好男孩呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663893237793169411",
+        "conversation_id": "2083957212175815002",
+        "created_at": "2026-08-02T16:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083957212175815002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083957212175815002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1597,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "万一我真能碰到好男孩呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 110,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T13:00:50.000Z",
+        "description": "盗图挡灾 不和有对象的聊",
+        "id": "1663893237793169411",
+        "location": "你的心里",
+        "name": "眼泪一直掉",
+        "pinned_tweet_id": "2082128691040342153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082128368074629120/YDnQxD0B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8499,
+          "following_count": 36,
+          "like_count": 2616,
+          "listed_count": 16,
+          "media_count": 30,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "0715z520",
+        "verified": false
+      }
+    ]
+  }
+}

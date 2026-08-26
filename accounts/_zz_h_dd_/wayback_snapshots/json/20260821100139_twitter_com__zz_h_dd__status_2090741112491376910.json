@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090739452511658136",
+    "created_at": "2026-08-21T10:01:39.000Z",
+    "display_text_range": [
+      11,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090741112491376910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961527547344424962",
+          "start": 0,
+          "username": "shuyo0722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090741112491376910",
+    "in_reply_to_user_id": "1961527547344424962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090740457890590927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuyo0722 给他骂得跑路了 估计说中了 他就天天那个穷出租屋撸他的3cm臭鸡吧 一看到我发的急的要死 疯狂狗叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090739452511658136",
+        "created_at": "2026-08-21T10:01:39.000Z",
+        "display_text_range": [
+          11,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090741112491376910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961527547344424962",
+              "start": 0,
+              "username": "shuyo0722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090741112491376910",
+        "in_reply_to_user_id": "1961527547344424962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090740457890590927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuyo0722 给他骂得跑路了 估计说中了 他就天天那个穷出租屋撸他的3cm臭鸡吧 一看到我发的急的要死 疯狂狗叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961527547344424962",
+        "conversation_id": "2090739452511658136",
+        "created_at": "2026-08-21T09:59:03.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090740457890590927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090740457890590927",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090739452511658136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 推特傻逼多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090741112491376910",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 174,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T20:33:16.000Z",
+        "description": "真的很恶",
+        "id": "1961527547344424962",
+        "is_identity_verified": false,
+        "location": "7.2km",
+        "most_recent_tweet_id": "2090740614463737871",
+        "name": "施迤_shuyo@無言購読アカウント",
+        "pinned_tweet_id": "2089828724665713007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961527547344424962/1787080915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089794448431689728/wZU8r41C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 48,
+          "like_count": 4497,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2100
+        },
+        "url": "",
+        "username": "shuyo0722",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

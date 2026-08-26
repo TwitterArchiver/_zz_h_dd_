@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2076355231072616707",
+    "created_at": "2026-07-16T22:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077890944100409523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1483911037028270080",
+          "start": 0,
+          "username": "hefan230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077890944100409523",
+    "in_reply_to_user_id": "1483911037028270080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076474875485811184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hefan230 睡眠薬を飲んでください"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2076355231072616707",
+        "created_at": "2026-07-16T22:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077890944100409523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1483911037028270080",
+              "start": 0,
+              "username": "hefan230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077890944100409523",
+        "in_reply_to_user_id": "1483911037028270080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076474875485811184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hefan230 睡眠薬を飲んでください"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483911037028270080",
+        "conversation_id": "2076355231072616707",
+        "created_at": "2026-07-13T01:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076474875485811184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076474875485811184",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076355231072616707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa555 不是 感康也能od吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "17歳/気に入ったらリプしてね/チャットでもどうぞ",
+        "id": "2077517932532527104",
+        "location": "涩谷",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T21:16:04.000Z",
+        "description": "好想体验不用为钱担心的生活/在日本留学底层f栏混日子中/友跨🌈/币圈资深老韭菜/无畏契约-cs2启动！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50.hefan.me",
+                "end": 23,
+                "expanded_url": "https://v50.hefan.me",
+                "start": 0,
+                "url": "https://t.co/XpB3Y48cUa"
+              }
+            ]
+          }
+        },
+        "id": "1483911037028270080",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "hefan230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996414890584788992/6pftAXjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3854,
+          "following_count": 535,
+          "like_count": 17288,
+          "listed_count": 6,
+          "media_count": 1758,
+          "tweet_count": 4449
+        },
+        "url": "https://t.co/XpB3Y48cUa",
+        "username": "hefan230",
+        "verified": true
+      }
+    ]
+  }
+}

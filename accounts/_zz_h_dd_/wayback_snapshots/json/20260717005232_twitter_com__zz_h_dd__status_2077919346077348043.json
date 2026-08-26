@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2077802888882192681",
+    "created_at": "2026-07-17T00:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T01:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077919346077348043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028027034556088320",
+          "start": 0,
+          "username": "nocule00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077919346077348043",
+    "in_reply_to_user_id": "2028027034556088320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077802888882192681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nocule00 めまい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2077802888882192681",
+        "created_at": "2026-07-17T00:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077919346077348043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028027034556088320",
+              "start": 0,
+              "username": "nocule00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077919346077348043",
+        "in_reply_to_user_id": "2028027034556088320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077802888882192681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nocule00 めまい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028027034556088320",
+        "conversation_id": "2077802888882192681",
+        "created_at": "2026-07-16T17:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077802888882192681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077802888882192681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2451,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od到底什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "17歳/気に入ったらリプしてね/チャットでもどうぞ",
+        "id": "2077517932532527104",
+        "location": "涩谷",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T08:38:32.000Z",
+        "description": "所有问我闹够了没的人 我告诉你们 我还没开始闹",
+        "id": "2028027034556088320",
+        "name": "Done.",
+        "pinned_tweet_id": "2031798757432705262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028027529358163969/o0Z7KwNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3984,
+          "following_count": 19,
+          "like_count": 1708,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 3754
+        },
+        "url": "",
+        "username": "nocule00",
+        "verified": false
+      }
+    ]
+  }
+}

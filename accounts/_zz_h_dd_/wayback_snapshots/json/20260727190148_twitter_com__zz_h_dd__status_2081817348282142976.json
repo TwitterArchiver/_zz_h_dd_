@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2081362990478328057",
+    "created_at": "2026-07-27T19:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081817348282142976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624337198765178881",
+          "start": 0,
+          "username": "niconekkod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081817348282142976",
+    "in_reply_to_user_id": "1624337198765178881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081362990478328057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niconekkod 好馋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2081362971054542848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ8mDpbkAADZR9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2081362971054526466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ8mDpbUAIZfeT.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081362971083808768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ8mDwaIAAFIRk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2081362990478328057",
+        "created_at": "2026-07-27T19:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081817348282142976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624337198765178881",
+              "start": 0,
+              "username": "niconekkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081817348282142976",
+        "in_reply_to_user_id": "1624337198765178881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081362990478328057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niconekkod 好馋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081362971054542848",
+            "3_2081362971054526466",
+            "3_2081362971083808768"
+          ]
+        },
+        "author_id": "1624337198765178881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081362990478328057",
+        "created_at": "2026-07-26T12:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081362990478328057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGLsBVCCTs",
+              "end": 40,
+              "expanded_url": "https://x.com/niconekkod/status/2081362990478328057/photo/1",
+              "media_key": "3_2081362971054542848",
+              "start": 17,
+              "url": "https://t.co/CGLsBVCCTs"
+            },
+            {
+              "display_url": "pic.x.com/CGLsBVCCTs",
+              "end": 40,
+              "expanded_url": "https://x.com/niconekkod/status/2081362990478328057/photo/1",
+              "media_key": "3_2081362971054526466",
+              "start": 17,
+              "url": "https://t.co/CGLsBVCCTs"
+            },
+            {
+              "display_url": "pic.x.com/CGLsBVCCTs",
+              "end": 40,
+              "expanded_url": "https://x.com/niconekkod/status/2081362990478328057/photo/1",
+              "media_key": "3_2081362971083808768",
+              "start": 17,
+              "url": "https://t.co/CGLsBVCCTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081362990478328057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1608,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会不会太隐晦了\nunk 你去哪了 https://t.co/CGLsBVCCTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 75,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号\nins 同 iD\n顺男\n14岁傻逼低龄做题区\n爱好喵斯 碎碎念\n很想被人在意，请随时打扰我，我很乐意听任何人倾诉\n割手 偶尔压力太大会od\n坐标CQ主城\n欢迎互 fo\n我的鼠鼠：@Shivam3228🐭 @wozubbdelyta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 134,
+                "start": 121,
+                "username": "wozubbdelyta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niconekkod",
+                "end": 23,
+                "expanded_url": "https://t.me/niconekkod",
+                "start": 0,
+                "url": "https://t.co/Sxu7tx5w0g"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126961294323712/SCEUmmkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 89,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/Sxu7tx5w0g",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

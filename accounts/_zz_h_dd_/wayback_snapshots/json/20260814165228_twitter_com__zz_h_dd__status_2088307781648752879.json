@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088307767069360128"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2088284416942670057",
+    "created_at": "2026-08-14T16:52:28.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088307781648752879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1549985313694822400",
+          "start": 0,
+          "username": "Warden47119942"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uhFkGOG9c5",
+          "end": 46,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2088307781648752879/photo/1",
+          "media_key": "3_2088307767069360128",
+          "start": 23,
+          "url": "https://t.co/uhFkGOG9c5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088307781648752879",
+    "in_reply_to_user_id": "1549985313694822400",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088307767069360128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088303586350694829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Warden47119942 可爱吗可爱吗 https://t.co/uhFkGOG9c5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2088307767069360128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPso2Y3bwAABv5F.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088307767069360128"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2088284416942670057",
+        "created_at": "2026-08-14T16:52:28.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088307781648752879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1549985313694822400",
+              "start": 0,
+              "username": "Warden47119942"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhFkGOG9c5",
+              "end": 46,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2088307781648752879/photo/1",
+              "media_key": "3_2088307767069360128",
+              "start": 23,
+              "url": "https://t.co/uhFkGOG9c5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088307781648752879",
+        "in_reply_to_user_id": "1549985313694822400",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088307767069360128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088303586350694829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warden47119942 可爱吗可爱吗 https://t.co/uhFkGOG9c5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549985313694822400",
+        "conversation_id": "2088284416942670057",
+        "created_at": "2026-08-14T16:35:48.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088303586350694829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088303586350694829",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088284416942670057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 看看猫🐱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2088307781648752879",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 155,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 951
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-21T05:11:19.000Z",
+        "description": "All welcome ！战雷，塔科夫，kards……（日本語を勉强しています。狱长の闲聊小屋https://t.co/NG1ghpP5ab\n欢迎来找咱一起玩 all gender友好 对象招募ing（日常+偶尔涩涩当树洞朋友圈发）是乌萨奇-infp😼求骚扰ing欢迎互相倾诉！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+EV_WdZ2nx59kM…",
+                "end": 70,
+                "expanded_url": "https://t.me/+EV_WdZ2nx59kMDFl",
+                "start": 47,
+                "url": "https://t.co/NG1ghpP5ab"
+              }
+            ]
+          }
+        },
+        "id": "1549985313694822400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088306677665902916",
+        "name": "Warden狱长",
+        "pinned_tweet_id": "1716481628942610447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549985313694822400/1757089565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652716176945061889/uThtCzJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 4236,
+          "like_count": 137363,
+          "listed_count": 1,
+          "media_count": 1280,
+          "tweet_count": 8009
+        },
+        "url": "",
+        "username": "Warden47119942",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

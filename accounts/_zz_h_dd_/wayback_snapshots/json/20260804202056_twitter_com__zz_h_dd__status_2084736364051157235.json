@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2084524755198325169",
+    "created_at": "2026-08-04T20:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T21:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084736364051157235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946605183888187392",
+          "start": 0,
+          "username": "AmA19Neuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084736364051157235",
+    "in_reply_to_user_id": "1946605183888187392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084524755198325169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmA19Neuu 我操宝贝你好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084524752224550912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO24N8XagAAlDK6.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2084524755198325169",
+        "created_at": "2026-08-04T20:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T21:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084736364051157235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946605183888187392",
+              "start": 0,
+              "username": "AmA19Neuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084736364051157235",
+        "in_reply_to_user_id": "1946605183888187392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084524755198325169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmA19Neuu 我操宝贝你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084524752224550912"
+          ]
+        },
+        "author_id": "1946605183888187392",
+        "conversation_id": "2084524755198325169",
+        "created_at": "2026-08-04T06:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084524755198325169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEN8E6YJHk",
+              "end": 26,
+              "expanded_url": "https://x.com/AmA19Neuu/status/2084524755198325169/photo/1",
+              "media_key": "3_2084524752224550912",
+              "start": 3,
+              "url": "https://t.co/FEN8E6YJHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084524755198325169",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1255,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "TT https://t.co/FEN8E6YJHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 109,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T16:17:45.000Z",
+        "description": "╰(⇀‸↼)╯",
+        "id": "1946605183888187392",
+        "name": "ImsTillhere",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973541384549285888/gwWjQsev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "AmA19Neuu",
+        "verified": false
+      }
+    ]
+  }
+}

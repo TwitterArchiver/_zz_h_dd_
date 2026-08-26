@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2081483413740294168",
+    "created_at": "2026-07-26T21:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081486832727122081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961527547344424962",
+          "start": 0,
+          "username": "sh7099222799018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081486832727122081",
+    "in_reply_to_user_id": "1961527547344424962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081483413740294168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sh7099222799018 宝贝早点睡吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2081483413740294168",
+        "created_at": "2026-07-26T21:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081486832727122081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961527547344424962",
+              "start": 0,
+              "username": "sh7099222799018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081486832727122081",
+        "in_reply_to_user_id": "1961527547344424962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081483413740294168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh7099222799018 宝贝早点睡吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961527547344424962",
+        "conversation_id": "2081483413740294168",
+        "created_at": "2026-07-26T20:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081483413740294168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081483413740294168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不od也可以体验到o大的感觉\n我操了我休息一会再编辑的这一条。刚刚感觉真的要去异世界了，呼吸不上来声音都在发颤，你们最好是明天可以见到我吧ok，感觉真的小o大了但是我没有嗑药啊，心脏一直跳，只要说话就呼吸不上来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 69,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T20:33:16.000Z",
+        "description": "=施迤/十一/shuyo 丨 互fo中丨中国人丨当朋友圈发丨 不聊骚不聊黄只是为了发屌丝文案才注册这个app 丨 全网最有素质的人 丨 🈚🚪不加联系方式 丨 匿名提问↙ 丨 异性恋谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuyo07221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuyo07221",
+                "start": 0,
+                "url": "https://t.co/xcFdcg9NVV"
+              }
+            ]
+          }
+        },
+        "id": "1961527547344424962",
+        "location": "你心里",
+        "name": "施迤_shuyo@無言購読アカウント",
+        "pinned_tweet_id": "2081096510176149653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078372729171120128/MYYMjF51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 30,
+          "like_count": 2012,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/xcFdcg9NVV",
+        "username": "sh7099222799018",
+        "verified": false
+      }
+    ]
+  }
+}

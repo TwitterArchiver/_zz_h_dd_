@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091262702866022400"
+      ],
+      "media_source_tweet_id": [
+        "2091262711753822366"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2091449460496998741",
+    "created_at": "2026-08-23T08:56:23.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091449460496998741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724267127031672832",
+          "start": 3,
+          "username": "aliebwa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uq9vH4nrXm",
+          "end": 54,
+          "expanded_url": "https://x.com/aliebwa/status/2091262711753822366/photo/1",
+          "media_key": "3_2091262702866022400",
+          "start": 31,
+          "url": "https://t.co/uq9vH4nrXm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091449460496998741",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091262702866022400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091262711753822366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aliebwa: 谁想要？抽奖抽出去吧 反正也不吃了 https://t.co/uq9vH4nrXm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2091262702866022400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWoWShaQAAYnjO.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091262702866022400"
+          ],
+          "media_source_tweet_id": [
+            "2091262711753822366"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2091449460496998741",
+        "created_at": "2026-08-23T08:56:23.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091449460496998741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724267127031672832",
+              "start": 3,
+              "username": "aliebwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uq9vH4nrXm",
+              "end": 54,
+              "expanded_url": "https://x.com/aliebwa/status/2091262711753822366/photo/1",
+              "media_key": "3_2091262702866022400",
+              "start": 31,
+              "url": "https://t.co/uq9vH4nrXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091449460496998741",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091262702866022400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091262711753822366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aliebwa: 谁想要？抽奖抽出去吧 反正也不吃了 https://t.co/uq9vH4nrXm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091262702866022400"
+          ]
+        },
+        "author_id": "1724267127031672832",
+        "conversation_id": "2091262711753822366",
+        "created_at": "2026-08-22T20:34:18.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091262711753822366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uq9vH4nrXm",
+              "end": 41,
+              "expanded_url": "https://x.com/aliebwa/status/2091262711753822366/photo/1",
+              "media_key": "3_2091262702866022400",
+              "start": 18,
+              "url": "https://t.co/uq9vH4nrXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091262711753822366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091262702866022400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9064,
+          "like_count": 205,
+          "quote_count": 1,
+          "reply_count": 147,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "谁想要？抽奖抽出去吧 反正也不吃了 https://t.co/uq9vH4nrXm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2091449460496998741",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 186,
+          "like_count": 1793,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "🚪66 努力活着努力活下去",
+        "id": "1724267127031672832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091307322018775216",
+        "name": "idi",
+        "pinned_tweet_id": "2091158859784310855",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724267127031672832/1699933762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1140,
+          "like_count": 1212,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1773
+        },
+        "url": "",
+        "username": "aliebwa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

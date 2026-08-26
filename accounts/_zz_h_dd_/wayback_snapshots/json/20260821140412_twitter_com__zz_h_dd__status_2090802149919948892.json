@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090768947549540352"
+      ],
+      "media_source_tweet_id": [
+        "2090769029665530135"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090802149919948892",
+    "created_at": "2026-08-21T14:04:12.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090802149919948892"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "男喘"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "可爱"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "青受"
+        },
+        {
+          "end": 67,
+          "start": 65,
+          "tag": "骚"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "小狗男"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "女性向"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "kp"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "自慰"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1676056161928503301",
+          "start": 3,
+          "username": "aduiduidui55195"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7P2VkWVe7",
+          "end": 109,
+          "expanded_url": "https://x.com/aduiduidui55195/status/2090769029665530135/video/1",
+          "media_key": "13_2090768947549540352",
+          "start": 86,
+          "url": "https://t.co/p7P2VkWVe7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090802149919948892",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090768947549540352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090769029665530135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aduiduidui55195: 好喜欢姐姐。。跟姐姐做爱好舒服。。好爽。。想一直跟姐姐做爱。。\n#男喘 #可爱 #青受 #骚 #小狗男 #女性向 #kp #自慰 https://t.co/p7P2VkWVe7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75948,
+        "height": 1280,
+        "media_key": "13_2090768947549540352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090768947549540352/img/1OOIB39v-U34EkwP.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090768947549540352/vid/avc1/320x568/yXbW5_25LXSe4vHJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090768947549540352/vid/avc1/480x852/vV_ydYyIXaXj-uu7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090768947549540352/vid/avc1/720x1280/xynqwGRfYR5QF99L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090768947549540352/pl/FROtRBe7PU0KeGU6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090768947549540352"
+          ],
+          "media_source_tweet_id": [
+            "2090769029665530135"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090802149919948892",
+        "created_at": "2026-08-21T14:04:12.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090802149919948892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "男喘"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "可爱"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "青受"
+            },
+            {
+              "end": 67,
+              "start": 65,
+              "tag": "骚"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "小狗男"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "女性向"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "kp"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "自慰"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1676056161928503301",
+              "start": 3,
+              "username": "aduiduidui55195"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7P2VkWVe7",
+              "end": 109,
+              "expanded_url": "https://x.com/aduiduidui55195/status/2090769029665530135/video/1",
+              "media_key": "13_2090768947549540352",
+              "start": 86,
+              "url": "https://t.co/p7P2VkWVe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090802149919948892",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090768947549540352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090769029665530135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aduiduidui55195: 好喜欢姐姐。。跟姐姐做爱好舒服。。好爽。。想一直跟姐姐做爱。。\n#男喘 #可爱 #青受 #骚 #小狗男 #女性向 #kp #自慰 https://t.co/p7P2VkWVe7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090768947549540352"
+          ]
+        },
+        "author_id": "1676056161928503301",
+        "conversation_id": "2090769029665530135",
+        "created_at": "2026-08-21T11:52:35.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090769029665530135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "男喘"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "可爱"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "青受"
+            },
+            {
+              "end": 46,
+              "start": 44,
+              "tag": "骚"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "小狗男"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "女性向"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "kp"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "自慰"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7P2VkWVe7",
+              "end": 88,
+              "expanded_url": "https://x.com/aduiduidui55195/status/2090769029665530135/video/1",
+              "media_key": "13_2090768947549540352",
+              "start": 65,
+              "url": "https://t.co/p7P2VkWVe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090769029665530135",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090768947549540352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢姐姐。。跟姐姐做爱好舒服。。好爽。。想一直跟姐姐做爱。。\n#男喘 #可爱 #青受 #骚 #小狗男 #女性向 #kp #自慰 https://t.co/p7P2VkWVe7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090802149919948892",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 177,
+          "like_count": 1677,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-04T02:31:56.000Z",
+        "description": "大号@cheny47047\ncn御风🚪52不是健全b 09 偶尔zc 经常缺爱/发牢骚/负能 诚招一位打三角洲厉害的姐姐 入门的小宝宝都会被我关爱被我哄的接定制有想我念的台本可以私发给我呀匿名提问:https://t.co/MybV1G36b4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "cheny47047"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/suki",
+                "end": 122,
+                "expanded_url": "http://miyu.link/suki",
+                "start": 99,
+                "url": "https://t.co/MybV1G36b4"
+              }
+            ]
+          }
+        },
+        "id": "1676056161928503301",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090771771448574385",
+        "name": "suki！",
+        "pinned_tweet_id": "2089533534042206553",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089044471979937792/qR-KI50u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 40,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "aduiduidui55195",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

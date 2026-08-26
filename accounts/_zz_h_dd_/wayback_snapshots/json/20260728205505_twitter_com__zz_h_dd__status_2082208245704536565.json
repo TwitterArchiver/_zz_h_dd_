@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2082128138319081858",
+    "created_at": "2026-07-28T20:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082208245704536565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1447104461759864832",
+          "start": 0,
+          "username": "Oct22_Libw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082208245704536565",
+    "in_reply_to_user_id": "1447104461759864832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082128138319081858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oct22_Libw 这个好好抽 好香"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082127955032190976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU0V_CasAAhlUZ.jpg",
+        "width": 1848
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082128021365104640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU0Z2JaoAA8B29.jpg",
+        "width": 1848
+      },
+      {
+        "height": 846,
+        "media_key": "3_2082128107809726464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU0e4La4AAlVZb.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2082128138319081858",
+        "created_at": "2026-07-28T20:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082208245704536565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1447104461759864832",
+              "start": 0,
+              "username": "Oct22_Libw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082208245704536565",
+        "in_reply_to_user_id": "1447104461759864832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082128138319081858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oct22_Libw 这个好好抽 好香"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082127955032190976",
+            "3_2082128021365104640",
+            "3_2082128107809726464"
+          ]
+        },
+        "author_id": "1447104461759864832",
+        "conversation_id": "2082128138319081858",
+        "created_at": "2026-07-28T15:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082128138319081858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qw2AZyoENR",
+              "end": 30,
+              "expanded_url": "https://x.com/Oct22_Libw/status/2082128138319081858/photo/1",
+              "media_key": "3_2082127955032190976",
+              "start": 7,
+              "url": "https://t.co/Qw2AZyoENR"
+            },
+            {
+              "display_url": "pic.x.com/Qw2AZyoENR",
+              "end": 30,
+              "expanded_url": "https://x.com/Oct22_Libw/status/2082128138319081858/photo/1",
+              "media_key": "3_2082128021365104640",
+              "start": 7,
+              "url": "https://t.co/Qw2AZyoENR"
+            },
+            {
+              "display_url": "pic.x.com/Qw2AZyoENR",
+              "end": 30,
+              "expanded_url": "https://x.com/Oct22_Libw/status/2082128138319081858/photo/1",
+              "media_key": "3_2082128107809726464",
+              "start": 7,
+              "url": "https://t.co/Qw2AZyoENR"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2082128138319081858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "化身绿头耄耋 https://t.co/Qw2AZyoENR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 77,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T07:39:38.000Z",
+        "description": "04|跨女|hrt ：2022.9.25|颜值忽高忽低||别骂我我神经衰弱||欢迎互fo",
+        "id": "1447104461759864832",
+        "name": "鹿茶白白白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059481704205897728/ThjgbY8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 251,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "Oct22_Libw",
+        "verified": false
+      }
+    ]
+  }
+}

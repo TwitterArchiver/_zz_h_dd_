@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2082545856432193900",
+    "created_at": "2026-07-30T15:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082848966757188053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2034942360682192896",
+          "start": 0,
+          "username": "yu6ku99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082848966757188053",
+    "in_reply_to_user_id": "2034942360682192896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082848244141642043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu6ku99 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2082545856432193900",
+        "created_at": "2026-07-30T15:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082848966757188053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2034942360682192896",
+              "start": 0,
+              "username": "yu6ku99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082848966757188053",
+        "in_reply_to_user_id": "2034942360682192896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082848244141642043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu6ku99 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034942360682192896",
+        "conversation_id": "2082545856432193900",
+        "created_at": "2026-07-30T15:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082848244141642043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082848244141642043",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082545856432193900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 我在的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 94,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T10:39:04.000Z",
+        "description": "",
+        "id": "2034942360682192896",
+        "name": "Yu",
+        "pinned_tweet_id": "2048085853831147765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034942891408465924/mG1wweQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 54,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "yu6ku99",
+        "verified": false
+      }
+    ]
+  }
+}

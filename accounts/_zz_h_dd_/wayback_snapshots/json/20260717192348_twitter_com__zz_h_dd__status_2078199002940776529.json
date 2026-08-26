@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078198984561287168",
+        "3_2078198984565542912"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2078199002940776529",
+    "created_at": "2026-07-17T19:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078199002940776529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fw3ES0aDow",
+          "end": 40,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2078199002940776529/photo/1",
+          "media_key": "3_2078198984561287168",
+          "start": 17,
+          "url": "https://t.co/fw3ES0aDow"
+        },
+        {
+          "display_url": "pic.x.com/fw3ES0aDow",
+          "end": 40,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2078199002940776529/photo/1",
+          "media_key": "3_2078198984565542912",
+          "start": 17,
+          "url": "https://t.co/fw3ES0aDow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078199002940776529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ベイビー、あなたは本当に可愛いわ https://t.co/fw3ES0aDow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078198984561287168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNc-9zdaYAASVwO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078198984565542912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNc-9zebUAACaV4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078198984561287168",
+            "3_2078198984565542912"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2078199002940776529",
+        "created_at": "2026-07-17T19:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078199002940776529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fw3ES0aDow",
+              "end": 40,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2078199002940776529/photo/1",
+              "media_key": "3_2078198984561287168",
+              "start": 17,
+              "url": "https://t.co/fw3ES0aDow"
+            },
+            {
+              "display_url": "pic.x.com/fw3ES0aDow",
+              "end": 40,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2078199002940776529/photo/1",
+              "media_key": "3_2078198984565542912",
+              "start": 17,
+              "url": "https://t.co/fw3ES0aDow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078199002940776529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ベイビー、あなたは本当に可愛いわ https://t.co/fw3ES0aDow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "17歳/喜欢会回关/匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2077930184607707209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

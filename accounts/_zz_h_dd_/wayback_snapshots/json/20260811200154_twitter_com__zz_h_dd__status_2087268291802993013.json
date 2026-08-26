@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087268284580462592",
+        "3_2087268284559400960"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2087268291802993013",
+    "created_at": "2026-08-11T20:01:54.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T21:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087268291802993013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jieZzh4mzM",
+          "end": 72,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2087268291802993013/photo/1",
+          "media_key": "3_2087268284580462592",
+          "start": 49,
+          "url": "https://t.co/jieZzh4mzM"
+        },
+        {
+          "display_url": "pic.x.com/jieZzh4mzM",
+          "end": 72,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2087268291802993013/photo/1",
+          "media_key": "3_2087268284559400960",
+          "start": 49,
+          "url": "https://t.co/jieZzh4mzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087268291802993013",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087268284580462592"
+      },
+      {
+        "media_key": "3_2087268284559400960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1 我一般喜欢打字 只有和我认识好久的朋友我才打语音 因为我是辣条音\n2 现在还没有 你要追我吗 https://t.co/jieZzh4mzM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2087268284580462592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd3ci1bgAAxysV.jpg",
+        "width": 1242
+      },
+      {
+        "height": 741,
+        "media_key": "3_2087268284559400960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd3ciwaIAAy3Ta.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087268284580462592",
+            "3_2087268284559400960"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2087268291802993013",
+        "created_at": "2026-08-11T20:01:54.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087268291802993013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jieZzh4mzM",
+              "end": 72,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2087268291802993013/photo/1",
+              "media_key": "3_2087268284580462592",
+              "start": 49,
+              "url": "https://t.co/jieZzh4mzM"
+            },
+            {
+              "display_url": "pic.x.com/jieZzh4mzM",
+              "end": 72,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2087268291802993013/photo/1",
+              "media_key": "3_2087268284559400960",
+              "start": 49,
+              "url": "https://t.co/jieZzh4mzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087268291802993013",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087268284580462592"
+          },
+          {
+            "media_key": "3_2087268284559400960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1 我一般喜欢打字 只有和我认识好久的朋友我才打语音 因为我是辣条音\n2 现在还没有 你要追我吗 https://t.co/jieZzh4mzM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2087268291802993013",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2086826951956898252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 131,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

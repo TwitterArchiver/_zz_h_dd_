@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079213957638946816"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079213982985130154",
+    "created_at": "2026-07-20T14:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079213982985130154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqtxuHADwa",
+          "end": 55,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2079213982985130154/photo/1",
+          "media_key": "3_2079213957638946816",
+          "start": 32,
+          "url": "https://t.co/yqtxuHADwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079213982985130154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠我靠明天去吃好的再买一堆药傻逼泡面不吃了还有9天天天吃好的 https://t.co/yqtxuHADwa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2079213957638946816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNraFA0agAA5Zh0.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079213957638946816"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079213982985130154",
+        "created_at": "2026-07-20T14:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079213982985130154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqtxuHADwa",
+              "end": 55,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2079213982985130154/photo/1",
+              "media_key": "3_2079213957638946816",
+              "start": 32,
+              "url": "https://t.co/yqtxuHADwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079213982985130154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我靠明天去吃好的再买一堆药傻逼泡面不吃了还有9天天天吃好的 https://t.co/yqtxuHADwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "17/生理女/泛性恋/ISFP/轻躁狂/异食癖/焦虑症/💊/🚬/🍺/几乎无雷/不擅长聊天见谅/上学中🎒/异宠/查成分回fo/匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ（互fo）",
+        "pinned_tweet_id": "2077930184607707209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 24,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

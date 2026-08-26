@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081134522792656896"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2081134529759383877",
+    "created_at": "2026-07-25T21:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T22:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081134529759383877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CdWPKOD9t5",
+          "end": 23,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2081134529759383877/photo/1",
+          "media_key": "3_2081134522792656896",
+          "start": 0,
+          "url": "https://t.co/CdWPKOD9t5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081134529759383877",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/CdWPKOD9t5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_2081134522792656896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGs0njbwAAakbk.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081134522792656896"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2081134529759383877",
+        "created_at": "2026-07-25T21:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T22:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081134529759383877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdWPKOD9t5",
+              "end": 23,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2081134529759383877/photo/1",
+              "media_key": "3_2081134522792656896",
+              "start": 0,
+              "url": "https://t.co/CdWPKOD9t5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081134529759383877",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CdWPKOD9t5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中🎒 | 异宠 | 查成分回fo | 爱我请给我花钱 | 匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2078940612490146036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 61,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

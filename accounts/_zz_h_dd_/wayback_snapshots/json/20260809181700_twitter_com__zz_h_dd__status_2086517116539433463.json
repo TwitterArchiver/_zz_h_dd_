@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2086493271795405246",
+    "created_at": "2026-08-09T18:17:00.000Z",
+    "display_text_range": [
+      64,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086517116539433463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2071188380948553728",
+          "start": 0,
+          "username": "kun114kun"
+        },
+        {
+          "end": 20,
+          "id": "1823636080345931782",
+          "start": 11,
+          "username": "luoaowoo"
+        },
+        {
+          "end": 30,
+          "id": "1751678476279779328",
+          "start": 21,
+          "username": "PWateraw"
+        },
+        {
+          "end": 45,
+          "id": "1506210090029703175",
+          "start": 31,
+          "username": "zhishiyouling"
+        },
+        {
+          "end": 53,
+          "id": "1945331416528539649",
+          "start": 46,
+          "username": "bpmiea"
+        },
+        {
+          "end": 63,
+          "id": "2047425753227333632",
+          "start": 54,
+          "username": "YuganQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086517116539433463",
+    "in_reply_to_user_id": "2071188380948553728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086493271795405246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kun114kun @luoaowoo @PWateraw @zhishiyouling @bpmiea @YuganQwQ 我去 怎么兑奖呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2086493271795405246",
+        "created_at": "2026-08-09T18:17:00.000Z",
+        "display_text_range": [
+          64,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086517116539433463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2071188380948553728",
+              "start": 0,
+              "username": "kun114kun"
+            },
+            {
+              "end": 20,
+              "id": "1823636080345931782",
+              "start": 11,
+              "username": "luoaowoo"
+            },
+            {
+              "end": 30,
+              "id": "1751678476279779328",
+              "start": 21,
+              "username": "PWateraw"
+            },
+            {
+              "end": 45,
+              "id": "1506210090029703175",
+              "start": 31,
+              "username": "zhishiyouling"
+            },
+            {
+              "end": 53,
+              "id": "1945331416528539649",
+              "start": 46,
+              "username": "bpmiea"
+            },
+            {
+              "end": 63,
+              "id": "2047425753227333632",
+              "start": 54,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086517116539433463",
+        "in_reply_to_user_id": "2071188380948553728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086493271795405246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kun114kun @luoaowoo @PWateraw @zhishiyouling @bpmiea @YuganQwQ 我去 怎么兑奖呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071188380948553728",
+        "conversation_id": "2086493271795405246",
+        "created_at": "2026-08-09T16:42:15.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086493271795405246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2077517932532527104",
+              "start": 22,
+              "username": "_zz_h_dd_"
+            },
+            {
+              "end": 51,
+              "id": "1823636080345931782",
+              "start": 42,
+              "username": "luoaowoo"
+            },
+            {
+              "end": 70,
+              "id": "1751678476279779328",
+              "start": 61,
+              "username": "PWateraw"
+            },
+            {
+              "end": 98,
+              "id": "1506210090029703175",
+              "start": 84,
+              "username": "zhishiyouling"
+            },
+            {
+              "end": 113,
+              "id": "1945331416528539649",
+              "start": 106,
+              "username": "bpmiea"
+            },
+            {
+              "end": 130,
+              "id": "2047425753227333632",
+              "start": 121,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086493271795405246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【100fo红包抽奖结果公布】🎉\n\n一等奖：@_zz_h_dd_  52🧧\n二等奖：@luoaowoo  35🧧\n三等奖：@PWateraw  18.88🧧\n参与奖：\n@zhishiyouling  8.88🧧\n@bpmiea  8.88🧧\n@YuganQwQ  8.88🧧\n\n请中奖的朋友私信我领取红包，恭喜各位！再次感谢大家支持～❤️\n三天内找我领取"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2086517116539433463",
+        "name": "スーユウ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 122,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T11:06:05.000Z",
+        "description": "原账号@rita_burns52614，邮箱被盗了……😭😭😭\n郑州男宅宅，重度音游人，明日方舟，英雄联盟，FGO，apex……（待开发）\n欢迎各位找我互fo，找我玩\n快来提问我https://t.co/dBc0ApOU7I\n100fo抽奖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "rita_burns52614"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/LST",
+                "end": 111,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 88,
+                "url": "https://t.co/dBc0ApOU7I"
+              }
+            ]
+          }
+        },
+        "id": "2071188380948553728",
+        "is_identity_verified": false,
+        "location": "距你：52m",
+        "most_recent_tweet_id": "2086496505989652502",
+        "name": "困困神",
+        "pinned_tweet_id": "2082405727709307261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071188380948553728/1782644983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071188960148357120/ZimVh_Um_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 198,
+          "like_count": 711,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "kun114kun",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-14T08:21:45.000Z",
+        "description": "介绍看置顶帖哦～\n坐标河南郑州，欢迎面基，一个不太健康的xyn哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luoaowoo.cn",
+                "end": 23,
+                "expanded_url": "https://luoaowoo.cn",
+                "start": 0,
+                "url": "https://t.co/pqxLKTOWl5"
+              }
+            ]
+          }
+        },
+        "id": "1823636080345931782",
+        "is_identity_verified": false,
+        "location": "🌏🇨🇳",
+        "most_recent_tweet_id": "2086377596330410416",
+        "name": "洛嗷呜luoaowoo",
+        "pinned_tweet_id": "2083162479627243539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823636080345931782/1779607027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929490251443224576/085L7RI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 160,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/pqxLKTOWl5",
+        "username": "luoaowoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T18:47:57.000Z",
+        "description": "2010.11.23|学生党|🏳️‍⚧️|乌蒙吃|互|只有在精神状态差的情况下上线（）|最最喜欢的老公大人 \n@Paxui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 55,
+                "username": "Paxui"
+              }
+            ]
+          }
+        },
+        "id": "1751678476279779328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2085138142231986279",
+        "name": "千褔柊玥_Dongyue",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082067992100175872/Ob1KRjKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 104,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "PWateraw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-22T10:04:13.000Z",
+        "description": "亲爱的，死亡是解脱和重逢。\n无论外界他人如何对我，我都不要背叛自己，永远永远。",
+        "id": "1506210090029703175",
+        "is_identity_verified": false,
+        "location": "一颗星",
+        "most_recent_tweet_id": "2086310968368480487",
+        "name": "幽",
+        "pinned_tweet_id": "2083874746966389143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506210090029703175/1785620552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083821818360852480/f6JqeG0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 76,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "zhishiyouling",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "反跨跨女🏳️‍⚧️ | 无证🍥26.1 | 炸柜26.6 | 2011 | 自恨\n纯良初中生 吸毒❌自残❌键政❌滥交❌\narch&nix | py/kotlin/nodejs\ngfwfucker | vibecoder | Vocaloid\n日常和碎碎念，可能会有负面内容…\n同类互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/l1qu1db0unce",
+                "end": 23,
+                "expanded_url": "https://t.me/l1qu1db0unce",
+                "start": 0,
+                "url": "https://t.co/Mlt6SoH9OF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "is_identity_verified": false,
+        "location": "小城市 浙江省",
+        "most_recent_tweet_id": "2086494855530975643",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2086289796239077863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945331416528539649/1783673342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086111140371976192/HP6Eex1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 731,
+          "like_count": 1046,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/Mlt6SoH9OF",
+        "username": "bpmiea",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈 \n仆人ᰔ@ci_shang85157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2086354150963470795",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 279,
+          "like_count": 2522,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

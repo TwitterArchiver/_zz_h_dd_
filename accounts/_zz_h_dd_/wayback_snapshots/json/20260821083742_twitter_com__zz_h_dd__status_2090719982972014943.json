@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090668854481653784",
+    "created_at": "2026-08-21T08:37:42.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090719982972014943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078716467781013504",
+          "start": 0,
+          "username": "slearthly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090719982972014943",
+    "in_reply_to_user_id": "2078716467781013504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090668854481653784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slearthly 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090668854481653784",
+        "created_at": "2026-08-21T08:37:42.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090719982972014943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078716467781013504",
+              "start": 0,
+              "username": "slearthly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090719982972014943",
+        "in_reply_to_user_id": "2078716467781013504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090668854481653784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slearthly 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078716467781013504",
+        "conversation_id": "2090668854481653784",
+        "created_at": "2026-08-21T05:14:32.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090668854481653784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090668854481653784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这条抽一个人送28.88\n关注转帖就成\n咱会回fo的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090719982972014943",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 167,
+          "like_count": 1641,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1139
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T05:54:53.000Z",
+        "description": "负面情绪灌注ing…\n每天都在掉生命上限\n情商低说话可能会伤到你不过我会道歉\n努力活成大家喜欢的样子\n线下查无此人/社恐/🍥💊🔪🩸\n主人@slearthly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "slearthly"
+              }
+            ]
+          }
+        },
+        "id": "2078716467781013504",
+        "is_identity_verified": false,
+        "location": "神奈川",
+        "most_recent_tweet_id": "2090718512541213080",
+        "name": "寒吟",
+        "pinned_tweet_id": "2090503342179201507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078716467781013504/1787273947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090488146198962176/u_xAzrEm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 360,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "slearthly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2089391611377786996",
+    "created_at": "2026-08-17T19:31:34.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T20:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089434982741954781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2086593690555092992",
+          "start": 0,
+          "username": "zz_dd_zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089434982741954781",
+    "in_reply_to_user_id": "2086593690555092992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089391611377786996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz_dd_zc 死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2089391611377786996",
+        "created_at": "2026-08-17T19:31:34.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089434982741954781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2086593690555092992",
+              "start": 0,
+              "username": "zz_dd_zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089434982741954781",
+        "in_reply_to_user_id": "2086593690555092992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089391611377786996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz_dd_zc 死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086593690555092992",
+        "conversation_id": "2089391611377786996",
+        "created_at": "2026-08-17T16:39:13.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089391611377786996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089391611377786996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的累死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2089434982741954781",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 166,
+          "like_count": 1527,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T23:24:16.000Z",
+        "description": "🚪52 入门的宝宝可以找我聊天 语音 哄睡等等 \n入门的姐姐们都会被我关爱哦\n主人：@_zz_h_dd_ \n09 | 生理男 | INFP | 双向 |偶尔zc| od |抽烟 |喝酒 |查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "_zz_h_dd_"
+              }
+            ]
+          }
+        },
+        "id": "2086593690555092992",
+        "is_identity_verified": false,
+        "location": "520m",
+        "most_recent_tweet_id": "2089434767662235669",
+        "name": "鷫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086593690555092992/1786318451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089275282784145408/fYdXcECc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 20,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "zz_dd_zc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

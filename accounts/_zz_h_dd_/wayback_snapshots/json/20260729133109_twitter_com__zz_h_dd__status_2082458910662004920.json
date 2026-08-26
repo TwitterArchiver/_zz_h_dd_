@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2082458910662004920",
+    "created_at": "2026-07-29T13:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082458910662004920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049099910289747968",
+          "start": 3,
+          "username": "Rainsta1n7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082458910662004920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082312384476225867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainsta1n7u: 我左胸口这颗跳蛋好像快没电了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2082458910662004920",
+        "created_at": "2026-07-29T13:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082458910662004920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049099910289747968",
+              "start": 3,
+              "username": "Rainsta1n7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082458910662004920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082312384476225867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainsta1n7u: 我左胸口这颗跳蛋好像快没电了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049099910289747968",
+        "conversation_id": "2082312384476225867",
+        "created_at": "2026-07-29T03:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082312384476225867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082312384476225867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我左胸口这颗跳蛋好像快没电了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 79,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:18:47.000Z",
+        "description": "k8",
+        "id": "2049099910289747968",
+        "location": "不加联系",
+        "name": "yoyo",
+        "pinned_tweet_id": "2065611606260851187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061092390002466816/NJwspf67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 57,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "Rainsta1n7u",
+        "verified": false
+      }
+    ]
+  }
+}

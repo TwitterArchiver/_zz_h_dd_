@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084607309389729793"
+      ],
+      "media_source_tweet_id": [
+        "2084607315563642972"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2085034686997520770",
+    "created_at": "2026-08-05T16:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085034686997520770"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "les"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "le"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "wlw"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1863949683900710912",
+          "start": 3,
+          "username": "xuan1413781"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EINNfmpCc4",
+          "end": 59,
+          "expanded_url": "https://x.com/xuan1413781/status/2084607315563642972/photo/1",
+          "media_key": "3_2084607309389729793",
+          "start": 36,
+          "url": "https://t.co/EINNfmpCc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085034686997520770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084607315563642972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuan1413781: 再吵三指 #les #le #wlw https://t.co/EINNfmpCc4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_2084607309389729793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4DTZxbkAEowNh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084607309389729793"
+          ]
+        },
+        "author_id": "1863949683900710912",
+        "conversation_id": "2084607315563642972",
+        "created_at": "2026-08-04T11:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084607315563642972"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "les"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "le"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EINNfmpCc4",
+              "end": 42,
+              "expanded_url": "https://x.com/xuan1413781/status/2084607315563642972/photo/1",
+              "media_key": "3_2084607309389729793",
+              "start": 19,
+              "url": "https://t.co/EINNfmpCc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084607315563642972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 21246,
+          "like_count": 528,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "再吵三指 #les #le #wlw https://t.co/EINNfmpCc4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084607309389729793"
+          ],
+          "media_source_tweet_id": [
+            "2084607315563642972"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2085034686997520770",
+        "created_at": "2026-08-05T16:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085034686997520770"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "les"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "le"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "wlw"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1863949683900710912",
+              "start": 3,
+              "username": "xuan1413781"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EINNfmpCc4",
+              "end": 59,
+              "expanded_url": "https://x.com/xuan1413781/status/2084607315563642972/photo/1",
+              "media_key": "3_2084607309389729793",
+              "start": 36,
+              "url": "https://t.co/EINNfmpCc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085034686997520770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084607315563642972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuan1413781: 再吵三指 #les #le #wlw https://t.co/EINNfmpCc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2084355751766863931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 115,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T14:13:54.000Z",
+        "description": "le，switch，sp   提问箱https://t.co/MFTYPvioFG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuan85023",
+                "end": 41,
+                "expanded_url": "https://ngl.link/xuan85023",
+                "start": 18,
+                "url": "https://t.co/MFTYPvioFG"
+              }
+            ]
+          }
+        },
+        "id": "1863949683900710912",
+        "name": "萱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863950027330404354/8Rw3AVcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 2,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "xuan1413781",
+        "verified": false
+      }
+    ]
+  }
+}

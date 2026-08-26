@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2078451834008768842",
+    "created_at": "2026-07-18T15:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078505513965465948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164441995298742272",
+          "start": 0,
+          "username": "ligeee0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078505513965465948",
+    "in_reply_to_user_id": "1164441995298742272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078451834008768842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ligeee0 这是真好女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2078451834008768842",
+        "created_at": "2026-07-18T15:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078505513965465948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164441995298742272",
+              "start": 0,
+              "username": "ligeee0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078505513965465948",
+        "in_reply_to_user_id": "1164441995298742272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078451834008768842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ligeee0 这是真好女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164441995298742272",
+        "conversation_id": "2078451834008768842",
+        "created_at": "2026-07-18T12:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078451834008768842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078451834008768842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：❌\n喝过酒：❌\n挂过科： ❌\n去过夜店：❌  \n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：❌\n考试作弊：✅\n偷偷溜出家门：✅\n\n😁😭😁😭😁😭😁😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "17/ISFP/异食癖/焦虑症/💊/🚬/🍺/匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ（互fo）",
+        "pinned_tweet_id": "2077930184607707209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T07:39:50.000Z",
+        "description": "mtx | 无证 | hrt2026.5.12 | 社恐 | pjsk | 单机 steam: 399821423 ns: SW-6027-9776-6595 | 成分复杂 | 不键政 | 同类互fo",
+        "id": "1164441995298742272",
+        "name": "fexc45",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076710620087623683/KPwC6LEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 505,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "ligeee0",
+        "verified": false
+      }
+    ]
+  }
+}

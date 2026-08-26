@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090744140950884826",
+    "created_at": "2026-08-21T10:13:42.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090744140950884826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981815295208820736",
+          "start": 3,
+          "username": "coffeybx9689"
+        },
+        {
+          "end": 31,
+          "id": "518679643",
+          "start": 18,
+          "username": "Wywye_Ekhnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090744140950884826",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090707512580563343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coffeybx9689: @Wywye_Ekhnya ✌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090744140950884826",
+        "created_at": "2026-08-21T10:13:42.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090744140950884826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981815295208820736",
+              "start": 3,
+              "username": "coffeybx9689"
+            },
+            {
+              "end": 31,
+              "id": "518679643",
+              "start": 18,
+              "username": "Wywye_Ekhnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090744140950884826",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090707512580563343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coffeybx9689: @Wywye_Ekhnya ✌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981815295208820736",
+        "conversation_id": "2090700860418625960",
+        "created_at": "2026-08-21T07:48:09.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090707512580563343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "518679643",
+              "start": 0,
+              "username": "Wywye_Ekhnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090707512580563343",
+        "in_reply_to_user_id": "518679643",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090700860418625960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wywye_Ekhnya ✌🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090744140950884826",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 175,
+          "like_count": 1656,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1152
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-24T20:10:14.000Z",
+        "description": "",
+        "id": "1981815295208820736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090708849703669872",
+        "name": "coffey",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1981815295208820736/1787294377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090701652210933760/bWt0ZdFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "coffeybx9689",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-03-08T17:06:51.000Z",
+        "description": "05在校，165/94 有没有同频的人呢，这边聊天噢💬@Miguel132kkkjj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "Miguel132kkkjj"
+              }
+            ]
+          }
+        },
+        "id": "518679643",
+        "is_identity_verified": false,
+        "location": "泰州",
+        "most_recent_tweet_id": "2090700860418625960",
+        "name": "小晚起",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087168583575195648/SzN6c9KB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 257,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "Wywye_Ekhnya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

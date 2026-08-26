@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079119913218920448",
+        "3_2079120018063925248",
+        "3_2079120042239909888"
+      ],
+      "media_source_tweet_id": [
+        "2079120070878564503",
+        "2079120070878564503",
+        "2079120070878564503"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2089036243221049542",
+    "created_at": "2026-08-16T17:07:07.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089036243221049542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1945464784763457536",
+          "start": 3,
+          "username": "KuriYasuma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DDYbRBDx5Y",
+          "end": 124,
+          "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+          "media_key": "3_2079119913218920448",
+          "start": 101,
+          "url": "https://t.co/DDYbRBDx5Y"
+        },
+        {
+          "display_url": "pic.x.com/DDYbRBDx5Y",
+          "end": 124,
+          "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+          "media_key": "3_2079120018063925248",
+          "start": 101,
+          "url": "https://t.co/DDYbRBDx5Y"
+        },
+        {
+          "display_url": "pic.x.com/DDYbRBDx5Y",
+          "end": 124,
+          "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+          "media_key": "3_2079120042239909888",
+          "start": 101,
+          "url": "https://t.co/DDYbRBDx5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089036243221049542",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2079119913218920448"
+      },
+      {
+        "media_key": "3_2079120018063925248"
+      },
+      {
+        "media_key": "3_2079120042239909888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079120070878564503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KuriYasuma: 来写一个置顶✍（伤口为特效ai生成图片）\n我是小碍/羊尾  08 身心女\n最大属性jirakei/管人\n会在这里发🔪💊🚬负能等乱七八糟内容  欢迎同类女孩子互fo互转！ https://t.co/DDYbRBDx5Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079119913218920448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqEi6Da0AA_pNv.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2079120018063925248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqEpAoaoAAXfHo.jpg",
+        "width": 864
+      },
+      {
+        "height": 2208,
+        "media_key": "3_2079120042239909888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqEqasa4AAuyiB.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079119913218920448",
+            "3_2079120018063925248",
+            "3_2079120042239909888"
+          ],
+          "media_source_tweet_id": [
+            "2079120070878564503",
+            "2079120070878564503",
+            "2079120070878564503"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2089036243221049542",
+        "created_at": "2026-08-16T17:07:07.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089036243221049542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1945464784763457536",
+              "start": 3,
+              "username": "KuriYasuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDYbRBDx5Y",
+              "end": 124,
+              "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+              "media_key": "3_2079119913218920448",
+              "start": 101,
+              "url": "https://t.co/DDYbRBDx5Y"
+            },
+            {
+              "display_url": "pic.x.com/DDYbRBDx5Y",
+              "end": 124,
+              "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+              "media_key": "3_2079120018063925248",
+              "start": 101,
+              "url": "https://t.co/DDYbRBDx5Y"
+            },
+            {
+              "display_url": "pic.x.com/DDYbRBDx5Y",
+              "end": 124,
+              "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+              "media_key": "3_2079120042239909888",
+              "start": 101,
+              "url": "https://t.co/DDYbRBDx5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089036243221049542",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2079119913218920448"
+          },
+          {
+            "media_key": "3_2079120018063925248"
+          },
+          {
+            "media_key": "3_2079120042239909888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079120070878564503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KuriYasuma: 来写一个置顶✍（伤口为特效ai生成图片）\n我是小碍/羊尾  08 身心女\n最大属性jirakei/管人\n会在这里发🔪💊🚬负能等乱七八糟内容  欢迎同类女孩子互fo互转！ https://t.co/DDYbRBDx5Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079119913218920448",
+            "3_2079120018063925248",
+            "3_2079120042239909888"
+          ]
+        },
+        "author_id": "1945464784763457536",
+        "conversation_id": "2079120070878564503",
+        "created_at": "2026-07-20T08:23:47.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079120070878564503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDYbRBDx5Y",
+              "end": 108,
+              "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+              "media_key": "3_2079119913218920448",
+              "start": 85,
+              "url": "https://t.co/DDYbRBDx5Y"
+            },
+            {
+              "display_url": "pic.x.com/DDYbRBDx5Y",
+              "end": 108,
+              "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+              "media_key": "3_2079120018063925248",
+              "start": 85,
+              "url": "https://t.co/DDYbRBDx5Y"
+            },
+            {
+              "display_url": "pic.x.com/DDYbRBDx5Y",
+              "end": 108,
+              "expanded_url": "https://x.com/KuriYasuma/status/2079120070878564503/photo/1",
+              "media_key": "3_2079120042239909888",
+              "start": 85,
+              "url": "https://t.co/DDYbRBDx5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079120070878564503",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2079119913218920448"
+          },
+          {
+            "media_key": "3_2079120018063925248"
+          },
+          {
+            "media_key": "3_2079120042239909888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5721,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "来写一个置顶✍（伤口为特效ai生成图片）\n我是小碍/羊尾  08 身心女\n最大属性jirakei/管人\n会在这里发🔪💊🚬负能等乱七八糟内容  欢迎同类女孩子互fo互转！ https://t.co/DDYbRBDx5Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2089036243221049542",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 153,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T12:45:38.000Z",
+        "description": "· .  。· * ◟∗ ˙ . ℜ𝔢𝔱𝔯𝔬 𝔓𝔦𝔠𝔱𝔬𝔯𝔦𝔞𝔩 . ˙ ∗◞🗞* · 。. ·\n小碍/羊尾  我很喜欢jirakei风格\ncptsd+双向|🔪|💊|负能|碎碎念|🚬……\n女孩子互粉互fo大歡迎  看到就会回\n玩推只為發洩情绪 一个纯绿p",
+        "id": "1945464784763457536",
+        "is_identity_verified": false,
+        "location": "ai的失乐园",
+        "most_recent_tweet_id": "2088991366974263462",
+        "name": "momo碍",
+        "pinned_tweet_id": "2079120070878564503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945464784763457536/1784877614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080553001673224192/54sDXcDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 148,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "KuriYasuma",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

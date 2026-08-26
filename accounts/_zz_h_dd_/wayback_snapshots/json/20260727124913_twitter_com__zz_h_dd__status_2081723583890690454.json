@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2081723583890690454",
+    "created_at": "2026-07-27T12:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081723583890690454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1641755931938791424",
+          "start": 3,
+          "username": "Qwsssey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081723583890690454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081590951282184409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qwsssey: 我发现我的内裤一直在装逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2081723583890690454",
+        "created_at": "2026-07-27T12:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081723583890690454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1641755931938791424",
+              "start": 3,
+              "username": "Qwsssey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081723583890690454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081590951282184409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qwsssey: 我发现我的内裤一直在装逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641755931938791424",
+        "conversation_id": "2081590951282184409",
+        "created_at": "2026-07-27T04:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081590951282184409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081590951282184409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4798,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我的内裤一直在装逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 71,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T10:55:00.000Z",
+        "description": "すきだよ 礼貌私信",
+        "id": "1641755931938791424",
+        "location": "Japan",
+        "name": "Khk",
+        "pinned_tweet_id": "2028171738995933504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011852704751169536/-7lpSdGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4369,
+          "following_count": 489,
+          "like_count": 5406,
+          "listed_count": 6,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "Qwsssey",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2077172967226691819",
+    "created_at": "2026-07-16T19:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077838875305902287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "903975325649977345",
+          "start": 0,
+          "username": "RainRainA01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077838875305902287",
+    "in_reply_to_user_id": "903975325649977345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077172967226691819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainRainA01 等身BJDですか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2077172967226691819",
+        "created_at": "2026-07-16T19:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077838875305902287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "903975325649977345",
+              "start": 0,
+              "username": "RainRainA01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077838875305902287",
+        "in_reply_to_user_id": "903975325649977345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077172967226691819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainRainA01 等身BJDですか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "903975325649977345",
+        "conversation_id": "2077172967226691819",
+        "created_at": "2026-07-14T23:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077172967226691819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077172967226691819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 787279,
+          "like_count": 1226,
+          "quote_count": 5,
+          "reply_count": 438,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽人生第一次看见bjd的居居 给我吓傻了 这么逼真的吗.......🤪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "17歳/何を言っていいかわからない/気に入ったらリポストします",
+        "id": "2077517932532527104",
+        "location": "涩谷",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077518698936713216/4vaH73a5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "_zz_h_dd_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-02T13:38:07.000Z",
+        "description": "欢迎大家来到我的狗窝 啥啥都发 当发泄池来的\n内娱韩娱泰娱乙游通吃型选手\nCaleb🍎（也博爱⭐🍐🐟🚗）\n宇宙无敌雷各家🍗 \n蝻的关注默认唧唧被蟑螂咬掉了\n因为看不惯而举报我的直接地府享福",
+        "id": "903975325649977345",
+        "location": "👍🏻❤️🌧️",
+        "name": "Rain",
+        "pinned_tweet_id": "2070993056589812159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065374492830937088/6y2i46Ga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 172,
+          "like_count": 3172,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 3125
+        },
+        "url": "",
+        "username": "RainRainA01",
+        "verified": false
+      }
+    ]
+  }
+}
