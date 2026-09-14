@@ -1,18 +1,20 @@
 {
   "name": "スーユウ",
   "username": "@_zz_h_dd_",
-  "bio": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+  "bio": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n自用梯子：https://dncloud.one/邀请码有优惠呀：iOsio2L6",
   "location": "心の中",
   "link": "https://ngl.link/zzhdd",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
   "bio_entities": {
-    "mentions": [
+    "urls": [
       {
-        "end": 110,
-        "start": 101,
-        "username": "dd_zc_zz"
+        "display_url": "dncloud.one",
+        "end": 126,
+        "expanded_url": "https://dncloud.one/",
+        "start": 103,
+        "url": "https://t.co/Ub7hxw2f5M"
       }
     ]
   },
