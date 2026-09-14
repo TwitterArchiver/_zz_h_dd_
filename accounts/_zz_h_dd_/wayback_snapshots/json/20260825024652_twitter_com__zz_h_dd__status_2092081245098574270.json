@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090236092868149248",
+        "3_2090236102053625856",
+        "3_2090236113864843264",
+        "3_2090236121288720384"
+      ],
+      "media_source_tweet_id": [
+        "2090236132915384755",
+        "2090236132915384755",
+        "2090236132915384755",
+        "2090236132915384755"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2092081245098574270",
+    "created_at": "2026-08-25T02:46:52.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092081245098574270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2090075074510598144",
+          "start": 3,
+          "username": "yice8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hPWTcAAADx",
+          "end": 118,
+          "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+          "media_key": "3_2090236092868149248",
+          "start": 95,
+          "url": "https://t.co/hPWTcAAADx"
+        },
+        {
+          "display_url": "pic.x.com/hPWTcAAADx",
+          "end": 118,
+          "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+          "media_key": "3_2090236102053625856",
+          "start": 95,
+          "url": "https://t.co/hPWTcAAADx"
+        },
+        {
+          "display_url": "pic.x.com/hPWTcAAADx",
+          "end": 118,
+          "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+          "media_key": "3_2090236113864843264",
+          "start": 95,
+          "url": "https://t.co/hPWTcAAADx"
+        },
+        {
+          "display_url": "pic.x.com/hPWTcAAADx",
+          "end": 118,
+          "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+          "media_key": "3_2090236121288720384",
+          "start": 95,
+          "url": "https://t.co/hPWTcAAADx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092081245098574270",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090236092868149248"
+      },
+      {
+        "media_key": "3_2090236102053625856"
+      },
+      {
+        "media_key": "3_2090236113864843264"
+      },
+      {
+        "media_key": "3_2090236121288720384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090236132915384755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yice8964: 最新自介\n18岁女大175cm55kg\n自杀两次失败休学在家\n双相情感障碍/自残od\n听音乐看动漫悬疑小说\n同类女孩子欢迎互fo\n\n如果可以的话请给我打赏谢谢🥺 https://t.co/hPWTcAAADx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_2090236092868149248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQICpuQbQAAo_q8.jpg",
+        "width": 1040
+      },
+      {
+        "height": 1860,
+        "media_key": "3_2090236102053625856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQICqQeagAADh6d.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1898,
+        "media_key": "3_2090236113864843264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQICq8ebYAAWVdB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2090236121288720384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQICrYIawAAmvI4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090236092868149248",
+            "3_2090236102053625856",
+            "3_2090236113864843264",
+            "3_2090236121288720384"
+          ],
+          "media_source_tweet_id": [
+            "2090236132915384755",
+            "2090236132915384755",
+            "2090236132915384755",
+            "2090236132915384755"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2092081245098574270",
+        "created_at": "2026-08-25T02:46:52.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092081245098574270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2090075074510598144",
+              "start": 3,
+              "username": "yice8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPWTcAAADx",
+              "end": 118,
+              "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+              "media_key": "3_2090236092868149248",
+              "start": 95,
+              "url": "https://t.co/hPWTcAAADx"
+            },
+            {
+              "display_url": "pic.x.com/hPWTcAAADx",
+              "end": 118,
+              "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+              "media_key": "3_2090236102053625856",
+              "start": 95,
+              "url": "https://t.co/hPWTcAAADx"
+            },
+            {
+              "display_url": "pic.x.com/hPWTcAAADx",
+              "end": 118,
+              "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+              "media_key": "3_2090236113864843264",
+              "start": 95,
+              "url": "https://t.co/hPWTcAAADx"
+            },
+            {
+              "display_url": "pic.x.com/hPWTcAAADx",
+              "end": 118,
+              "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+              "media_key": "3_2090236121288720384",
+              "start": 95,
+              "url": "https://t.co/hPWTcAAADx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092081245098574270",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090236092868149248"
+          },
+          {
+            "media_key": "3_2090236102053625856"
+          },
+          {
+            "media_key": "3_2090236113864843264"
+          },
+          {
+            "media_key": "3_2090236121288720384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090236132915384755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yice8964: 最新自介\n18岁女大175cm55kg\n自杀两次失败休学在家\n双相情感障碍/自残od\n听音乐看动漫悬疑小说\n同类女孩子欢迎互fo\n\n如果可以的话请给我打赏谢谢🥺 https://t.co/hPWTcAAADx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090236092868149248",
+            "3_2090236102053625856",
+            "3_2090236113864843264",
+            "3_2090236121288720384"
+          ]
+        },
+        "author_id": "2090075074510598144",
+        "conversation_id": "2090236132915384755",
+        "created_at": "2026-08-20T00:35:03.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090236132915384755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPWTcAAADx",
+              "end": 104,
+              "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+              "media_key": "3_2090236092868149248",
+              "start": 81,
+              "url": "https://t.co/hPWTcAAADx"
+            },
+            {
+              "display_url": "pic.x.com/hPWTcAAADx",
+              "end": 104,
+              "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+              "media_key": "3_2090236102053625856",
+              "start": 81,
+              "url": "https://t.co/hPWTcAAADx"
+            },
+            {
+              "display_url": "pic.x.com/hPWTcAAADx",
+              "end": 104,
+              "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+              "media_key": "3_2090236113864843264",
+              "start": 81,
+              "url": "https://t.co/hPWTcAAADx"
+            },
+            {
+              "display_url": "pic.x.com/hPWTcAAADx",
+              "end": 104,
+              "expanded_url": "https://x.com/yice8964/status/2090236132915384755/photo/1",
+              "media_key": "3_2090236121288720384",
+              "start": 81,
+              "url": "https://t.co/hPWTcAAADx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090236132915384755",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090236092868149248"
+          },
+          {
+            "media_key": "3_2090236102053625856"
+          },
+          {
+            "media_key": "3_2090236113864843264"
+          },
+          {
+            "media_key": "3_2090236121288720384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 600,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "最新自介\n18岁女大175cm55kg\n自杀两次失败休学在家\n双相情感障碍/自残od\n听音乐看动漫悬疑小说\n同类女孩子欢迎互fo\n\n如果可以的话请给我打赏谢谢🥺 https://t.co/hPWTcAAADx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2092081245098574270",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 188,
+          "like_count": 1865,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1324
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T13:58:10.000Z",
+        "description": "药代pr1.7cny/g欢迎私信窝下单🥰\n双相情感障碍-焦虑症-被迫害妄想症//原推号\n@chuyinweilai114已注销，现有相同id\n账号为他人自行注册与我无关//同类女生互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "chuyinweilai114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/yice87472",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/yice87472",
+                "start": 0,
+                "url": "https://t.co/tyHWKe0XUa"
+              }
+            ]
+          }
+        },
+        "id": "2090075074510598144",
+        "is_identity_verified": false,
+        "location": "中南海",
+        "most_recent_tweet_id": "2092028038926184786",
+        "name": "yice药代版（1.7cny/g普瑞私信窝",
+        "pinned_tweet_id": "2090236132915384755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090075074510598144/1787148203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090116790886244352/P9Ith1JM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 60,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/tyHWKe0XUa",
+        "username": "yice8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

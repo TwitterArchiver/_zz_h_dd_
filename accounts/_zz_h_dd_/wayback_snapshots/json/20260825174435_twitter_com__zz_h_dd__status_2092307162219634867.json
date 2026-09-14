@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077517932532527104",
+    "conversation_id": "2090617084741046619",
+    "created_at": "2026-08-25T17:44:35.000Z",
+    "display_text_range": [
+      20,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092307162219634867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1941043706397970434",
+          "start": 0,
+          "username": "danXU119363"
+        },
+        {
+          "end": 19,
+          "id": "1956332657056636928",
+          "start": 13,
+          "username": "xdefm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "dncloud.one/#/register?cod…",
+          "end": 43,
+          "expanded_url": "https://dncloud.one/#/register?code=iOsio2L6",
+          "start": 20,
+          "status": 403,
+          "unwound_url": "https://dncloud.one/#/register?code=iOsio2L6",
+          "url": "https://t.co/1dgcD3roSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092307162219634867",
+    "in_reply_to_user_id": "1941043706397970434",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092215795204186372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@danXU119363 @xdefm https://t.co/1dgcD3roSS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090617084741046619",
+        "created_at": "2026-08-25T17:44:35.000Z",
+        "display_text_range": [
+          20,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092307162219634867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1941043706397970434",
+              "start": 0,
+              "username": "danXU119363"
+            },
+            {
+              "end": 19,
+              "id": "1956332657056636928",
+              "start": 13,
+              "username": "xdefm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "dncloud.one/#/register?cod…",
+              "end": 43,
+              "expanded_url": "https://dncloud.one/#/register?code=iOsio2L6",
+              "start": 20,
+              "status": 403,
+              "unwound_url": "https://dncloud.one/#/register?code=iOsio2L6",
+              "url": "https://t.co/1dgcD3roSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092307162219634867",
+        "in_reply_to_user_id": "1941043706397970434",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092215795204186372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@danXU119363 @xdefm https://t.co/1dgcD3roSS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941043706397970434",
+        "conversation_id": "2090617084741046619",
+        "created_at": "2026-08-25T11:41:31.000Z",
+        "display_text_range": [
+          18,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092215795204186372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1956332657056636928",
+              "start": 0,
+              "username": "xdefm"
+            },
+            {
+              "end": 17,
+              "id": "2077517932532527104",
+              "start": 7,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092215795204186372",
+        "in_reply_to_user_id": "1956332657056636928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090857887681974328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xdefm @_zz_h_dd_ ip送中么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n自用梯子：https://t.co/Ub7hxw2f5M邀请码有优惠呀：iOsio2L6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dncloud.one",
+                "end": 126,
+                "expanded_url": "https://dncloud.one/",
+                "start": 103,
+                "url": "https://t.co/Ub7hxw2f5M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2092307162219634867",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 196,
+          "like_count": 1948,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-04T07:57:55.000Z",
+        "description": "",
+        "id": "1941043706397970434",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092215795204186372",
+        "name": "dan XU",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941043783820627968/hrHA8v5H_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "danXU119363",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-15T12:30:45.000Z",
+        "description": "",
+        "id": "1956332657056636928",
+        "is_identity_verified": false,
+        "location": "moon",
+        "most_recent_tweet_id": "2090857887681974328",
+        "name": "soil",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956332657056636928/1787049332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089662356112674816/p_B71_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "xdefm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

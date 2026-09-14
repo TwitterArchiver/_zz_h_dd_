@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092502064953982976"
+      ]
+    },
+    "author_id": "2077517932532527104",
+    "conversation_id": "2092502081135579336",
+    "created_at": "2026-08-26T06:39:07.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T07:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092502081135579336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vnxf2yQ2LP",
+          "end": 28,
+          "expanded_url": "https://x.com/_zz_h_dd_/status/2092502081135579336/photo/1",
+          "media_key": "3_2092502064953982976",
+          "start": 5,
+          "url": "https://t.co/vnxf2yQ2LP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092502081135579336",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092502064953982976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢主人 https://t.co/vnxf2yQ2LP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2092502064953982976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoPiqFagAA1RRH.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092502064953982976"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2092502081135579336",
+        "created_at": "2026-08-26T06:39:07.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092502081135579336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnxf2yQ2LP",
+              "end": 28,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2092502081135579336/photo/1",
+              "media_key": "3_2092502064953982976",
+              "start": 5,
+              "url": "https://t.co/vnxf2yQ2LP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092502081135579336",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092502064953982976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢主人 https://t.co/vnxf2yQ2LP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n自用梯子：https://t.co/Ub7hxw2f5M邀请码有优惠呀：iOsio2L6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dncloud.one",
+                "end": 126,
+                "expanded_url": "https://dncloud.one/",
+                "start": 103,
+                "url": "https://t.co/Ub7hxw2f5M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2092502081135579336",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 197,
+          "like_count": 1949,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
